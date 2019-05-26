@@ -108,6 +108,11 @@ This list focuses on resources about the why and how to do open source projects,
 * [Outreachy](https://www.outreachy.org/) - Mentoring program focused on supporting diversity
 * [Season of KDE](https://community.kde.org/SoK) - Mentoring program for volunteers in the KDE community
 
+### Onboarding
+
+* [First Timers Only](https://www.firsttimersonly.com/) - Introduction how to start with open source contributions with links to projects helping with that
+* [First Contributions](https://github.com/firstcontributions/first-contributions/blob/master/README.md) - Playground for learning the GitHub contribution process by doing it at an example
+
 ### Community Metrics
 
 * [Stackalytics](https://wiki.openstack.org/wiki/Stackalytics) - Open source tool providing contribution statistics used by OpenStack and others
