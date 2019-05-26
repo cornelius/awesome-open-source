@@ -24,7 +24,6 @@ This list focuses on resources about the why and how to do open source projects,
 
 * [Open Source Archetypes](https://blog.mozilla.org/wp-content/uploads/2018/05/MZOTS_OS_Archetypes_report_ext_scr.pdf) - Framework for classifying options how to run open source projects
 * [Open Source Survey](https://opensourcesurvey.org) - Survey ran by GitHub from 2017 about open source development practices and communities
-* [Nadya Eghbal's "Lemonade Stand"](https://github.com/nayafia/lemonade-stand) - A comprehensive list of funding methods for open source projects
 * [Open Source Government Models](https://github.com/cornelius/open-source-governance) - Collection of data about open source government models
 * [On Consensus and Humming in the IETF](https://tools.ietf.org/html/rfc7282) - Article about rough consensus which is a pattern used in many open source projects in some way
 * [OASIS Open Projects](https://oasis-open-projects.org/) - Program to support projects bringing together open source and open standards
@@ -49,6 +48,11 @@ This list focuses on resources about the why and how to do open source projects,
 * [The Cathedral and the Bazaar](http://www.catb.org/~esr/writings/cathedral-bazaar/) - Influential paper by Eric Raymond from 1997 laying out the principles of open source
 * [Contempt Culture](https://blog.aurynn.com/2015/12/16-contempt-culture) - Advice about how to create a healthy and respectful culture, explained at the example of contempt towards other programming languages
 * [The people behind the code](https://github.com/open-source/stories) - Interviews with open source contributors
+
+## Funding
+
+* [Nadya Eghbal's "Lemonade Stand"](https://github.com/nayafia/lemonade-stand) - A comprehensive list of funding methods for open source projects
+* [Open Collective](https://opencollective.com/) - Open source platform for managing and connecting projects, fiscal sponsors, and financial contributors
 
 ### Maintainers
 
