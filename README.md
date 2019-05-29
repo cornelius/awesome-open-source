@@ -52,6 +52,7 @@ This list focuses on resources about the why and how to do open source projects,
 * [Contempt Culture](https://blog.aurynn.com/2015/12/16-contempt-culture) - Advice about how to create a healthy and respectful culture, explained at the example of contempt towards other programming languages
 * [The people behind the code](https://github.com/open-source/stories) - Interviews with open source contributors
 * [Open Source Diversity](https://opensourcediversity.org/) - List of information, projects, and other resources supporting more diversity and inclusion in open source communitites
+* [What is open?](https://okfn.org/opendata/) - Beyond open source software, what is open data and content?
 
 ## Funding
 
