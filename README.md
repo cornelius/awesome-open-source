@@ -35,8 +35,10 @@ This list focuses on resources about the why and how to do open source projects,
 * [Choose an open source license](https://choosealicense.com/) - Simple license chooser to help you choosing a license for your project
 * [DCO](https://developercertificate.org/) - Developer certificate of origin used by the Linux Kernel and other projects
 * [Open Source License Compliance Handbook](https://github.com/finos-osr/OSLC-handbook) - Detailed guideline how to comply to a large selection of open source licenses
+* [Making Your Code Available Under An Open Source Licence](http://oss-watch.ac.uk/resources/opensourceyourcode) - Overview of how to choose and apply open source licenses
 * [SPDX](https://spdx.org/) - Standards to represent and communicate license information
 * [Clearly Defined](https://clearlydefined.io) - Project of the Open Source Initiative to get clearly defined license data for open source projects
+* [The MIT License, Line by Line](https://writing.kemitchell.com/2016/09/21/MIT-License-Line-by-Line.html) - A very thorough explanation of the MIT license
 
 ## Legal
 
