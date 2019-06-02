@@ -10,6 +10,7 @@ This list focuses on resources about the why and how to do open source projects,
 
 ## Contents
 
+* [Why Open Source?](why-open-source)
 * [Governance](#governance)
 * [Licensing](#licensing)
 * [Legal](#legal)
@@ -19,6 +20,10 @@ This list focuses on resources about the why and how to do open source projects,
 * [Community](#community)
 * [Development best practices](#development-best-practices)
 * [Infrastructure](#infrastructure)
+
+## Why Open Source?
+
+* [Freie Software](http://volle-kraft-voraus.de/De/FreieSoftware) - Overview of what free software is, what the freedoms mean, and what benefit they have (in German) ([English Translation](http://volle-kraft-voraus.de/Main/FreeSoftware))
 
 ## Governance
 
