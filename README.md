@@ -133,6 +133,7 @@ This list focuses on resources about the why and how to do open source projects,
 * [Contributing Template](https://github.com/nayafia/contributing-template) - Template for contribution guidelines
 * [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/) - Comprehensive resource about how to write great commit messages
 * [How the top 100 projects on GitHub do user support](https://github.com/nayafia/user-support) - Study about how open source projects do user support
+* [disclose.io](https://disclose.io/) - Standardized best practices for security issue disclosures
 
 ## Infrastructure
 
