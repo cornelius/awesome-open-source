@@ -15,9 +15,11 @@ This list focuses on resources about the why and how to do open source projects,
 * [Legal](#legal)
 * [Culture](#culture)
 * [Organizations](#organizations)
+* [Funding](#funding)
 * [Conferences](#conferences)
 * [Community](#community)
 * [Development best practices](#development-best-practices)
+* [Marketing](#marketing)
 * [Infrastructure](#infrastructure)
 
 ## Governance
@@ -54,11 +56,6 @@ This list focuses on resources about the why and how to do open source projects,
 * [Open Source Diversity](https://opensourcediversity.org/) - List of information, projects, and other resources supporting more diversity and inclusion in open source communitites
 * [What is open?](https://okfn.org/opendata/) - Beyond open source software, what is open data and content?
 
-## Funding
-
-* [Nadya Eghbal's "Lemonade Stand"](https://github.com/nayafia/lemonade-stand) - A comprehensive list of funding methods for open source projects
-* [Open Collective](https://opencollective.com/) - Open source platform for managing and connecting projects, fiscal sponsors, and financial contributors
-
 ### Maintainers
 
 * [Awesome Maintainers](https://github.com/nayafia/awesome-maintainers) - Open source maintainers talking about maintaining open source projects
@@ -85,6 +82,12 @@ This list focuses on resources about the why and how to do open source projects,
 * [Software in the Public Interest](http://www.spi-inc.org/) - Non profit organization acting as fiscal sponsor to many open source projects
 * [Commons Conservancy](https://commonsconservancy.org/) - Umbrella organization for open source projects, based in Europe
 
+## Funding
+
+* [Nadya Eghbal's "Lemonade Stand"](https://github.com/nayafia/lemonade-stand) - A comprehensive list of funding methods for open source projects
+* [Open Collective](https://opencollective.com/) - Open source platform for managing and connecting projects, fiscal sponsors, and financial contributors
+* [Decentralized funding? An analysis of three programs](https://nadiaeghbal.com/grant-programs) - Analysis of some programs to fund open source development in an open and decentralized way through development grants
+
 ## Conferences
 
 * [LWN.net Community Calendar](https://lwn.net/Calendar/) - Calendar tracking events, such as conferences, relevant to the open source community
@@ -104,6 +107,7 @@ This list focuses on resources about the why and how to do open source projects,
 * [Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - Resources for running an open source program office
 * [TODO Group](https://todogroup.org/) - Group as forum for open source program managers
 * [Open Source Management Training](https://training.linuxfoundation.org/training/fundamentals-of-professional-open-source-management) - Free online course from the Linux Foundation about managing open source programs in the enterprise
+* [Open Leadership Training Series](https://mozilla.github.io/open-leadership-training-series/) - Best practices of working open
 
 ### Mentoring Programs
 
@@ -125,6 +129,7 @@ This list focuses on resources about the why and how to do open source projects,
 
 * [CII Best Practices Badge Program](https://bestpractices.coreinfrastructure.org) - The Linux Foundation's Core Infrastructure Initiative's self-certification program for demonstrating adherence to best open source practices
 * [How you know your Free of Open Source Software Project is doomed to FAIL](https://spot.livejournal.com/308370.html) - Tom Callaway's famous post about what not to do when running an open source project
+* [What does a sustainable open source project look like?](https://medium.com/libraries-io/what-does-a-sustainable-open-source-project-look-like-bf9b8cf824f8) - Criteria of what makes an open source project sustainable
 
 ## Development best practices
 
@@ -134,6 +139,17 @@ This list focuses on resources about the why and how to do open source projects,
 * [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/) - Comprehensive resource about how to write great commit messages
 * [How the top 100 projects on GitHub do user support](https://github.com/nayafia/user-support) - Study about how open source projects do user support
 * [disclose.io](https://disclose.io/) - Standardized best practices for security issue disclosures
+
+### Documentation
+
+* [How to write documentation that's actually useful](https://www.hpe.com/us/en/insights/articles/how-to-write-documentation-thats-actually-useful-1707.html) - Tips how to write good documentation
+* [Beautiful docs](https://github.com/PharkMillups/beautiful-docs/) - Lists of examples of great documentation and tools to generate documentation
+* [Awesome README](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs
+* [You are what you document](https://www.ybrikman.com/writing/2014/05/05/you-are-what-you-document/) - Guides and good examples for all kinds of documentation
+
+## Marketing
+
+* [What I learned from an old GitHub project that won 3000 starts in a weeek](https://www.freecodecamp.org/news/what-i-learned-from-an-old-github-project-that-won-3-000-stars-in-a-week-628349a5ee14/) - Case study of successfully marketing an open source project
 
 ## Infrastructure
 
