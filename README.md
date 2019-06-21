@@ -21,6 +21,7 @@ This list focuses on resources about the why and how to do open source projects,
 * [Development best practices](#development-best-practices)
 * [Marketing](#marketing)
 * [Infrastructure](#infrastructure)
+* [Research](#research)
 
 ## Governance
 
@@ -166,6 +167,12 @@ This list focuses on resources about the why and how to do open source projects,
 * [Discourse](https://www.discourse.org/) - Open source forum software
 * [Zoom](https://zoom.us/) - Video conferencing
 * [Hangouts](https://hangouts.google.com/) - Video conferencing
+
+## Research
+
+* [On the abandonment and survival of open source
+  projects: An empirical investigation](https://arxiv.org/pdf/1906.08058.pdf) -
+  What happens when maintainers leave a project
 
 ---
 
