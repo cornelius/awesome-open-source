@@ -111,6 +111,7 @@ This list focuses on resources about the why and how to do open source projects,
 * [TODO Group](https://todogroup.org/) - Group as forum for open source program managers
 * [Open Source Management Training](https://training.linuxfoundation.org/training/fundamentals-of-professional-open-source-management) - Free online course from the Linux Foundation about managing open source programs in the enterprise
 * [Open Leadership Training Series](https://mozilla.github.io/open-leadership-training-series/) - Best practices of working open
+* [Producing Open Source Software](https://producingoss.com/) - Book about how to run an open source project
 
 ### Mentoring Programs
 
