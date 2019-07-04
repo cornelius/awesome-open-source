@@ -178,6 +178,7 @@ This list focuses on resources about the why and how to do open source projects,
   projects: An empirical investigation](https://arxiv.org/pdf/1906.08058.pdf) -
   What happens when maintainers leave a project
 * [Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure](https://www.fordfoundation.org/about/library/reports-and-studies/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure/) - Extensive report about the challenges of maintaining open source as digital infrastructure
+* [TheFLOSSary](https://gitlab.tubit.tu-berlin.de/mirko.boehm/TheFLOSSary) - Glossary of Free/Libre and Open Source Software related terms, reusable in LaTeX documents
 
 ---
 
