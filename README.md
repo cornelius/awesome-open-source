@@ -78,6 +78,7 @@ This list focuses on resources about the why and how to do open source projects,
 * [Open Source Initiative (OSI)](https://opensource.org/) - Organization stewarding the Open Source Definition
 * [Linux Foundation](https://www.linuxfoundation.org/) - Organization supporting open source communities and industries through governance, events, and training
 * [Apache Software Foundation](http://www.apache.org/) - Organization providing home and governance to a large set of open source projects, including the Apache HTTP Server
+* [Eclipse Foundation](https://www.eclipse.org/org/foundation/) - Organization home to the Eclipse IDE and hundreds of other projects in domains such as IoT and others
 
 ### Umbrella Organizations
 
@@ -113,6 +114,8 @@ This list focuses on resources about the why and how to do open source projects,
 * [Open Source Management Training](https://training.linuxfoundation.org/training/fundamentals-of-professional-open-source-management) - Free online course from the Linux Foundation about managing open source programs in the enterprise
 * [Open Leadership Training Series](https://mozilla.github.io/open-leadership-training-series/) - Best practices of working open
 * [Producing Open Source Software](https://producingoss.com/) - Book about how to run an open source project
+* [Open Source Programs Survey](https://github.com/todogroup/survey) - Survey about motivations and expectations in running open source programs in a company
+* [Open Source in the Enterprise](https://aws.amazon.com/opensource/enterprise-oss-book/) - Mini-book with guidelines for enterprises how to use and create open source software
 
 ### Mentoring Programs
 
@@ -124,6 +127,7 @@ This list focuses on resources about the why and how to do open source projects,
 
 * [First Timers Only](https://www.firsttimersonly.com/) - Introduction how to start with open source contributions with links to projects helping with that
 * [First Contributions](https://github.com/firstcontributions/first-contributions/blob/master/README.md) - Playground for learning the GitHub contribution process by doing it at an example
+* [How students can get started contributing to open source software](https://opensource.com/education/16/1/how-students-get-started-open-source) - Overview of programs for students to get started with open source
 
 ### Community Metrics
 
@@ -162,6 +166,7 @@ This list focuses on resources about the why and how to do open source projects,
 ### Code Hosting
 
 * [GitHub](https://github.com) - Largest code hosting site
+* [Scaling from 2,000 to 25,000 engineers on GitHub at Microsoft](https://jeffwilcox.blog/2019/06/scaling-25k/) - Detailed report about how to scale an organization on GitHub with pointers to tools and best practices
 * [GitLab](https://gitlab.com) - Code hosting site whose code is available as open source under an open core model
 * [Savannah](https://savannah.gnu.org/) - Code hosting site for the GNU project and other free software projects
 
@@ -179,6 +184,9 @@ This list focuses on resources about the why and how to do open source projects,
   What happens when maintainers leave a project
 * [Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure](https://www.fordfoundation.org/about/library/reports-and-studies/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure/) - Extensive report about the challenges of maintaining open source as digital infrastructure
 * [TheFLOSSary](https://gitlab.tubit.tu-berlin.de/mirko.boehm/TheFLOSSary) - Glossary of Free/Libre and Open Source Software related terms, reusable in LaTeX documents
+* [The Hidden Benefit of Giving Back to Open Source Software](https://hbswk.hbs.edu/item/the-hidden-benefit-of-giving-back-to-open-source-software) - Report about study how contributing to open source projects allows companies to capture more value form using these projects
+* [Getting Started with FLOSS Governance and Compliance
+in Companies](https://dirkriehle.com/wp-content/uploads/2019/06/Getting-Started-with-FLOSS-Governance-Final.pdf) - Research about what the best practices are to introduce a governance program for commercial use of open source software
 
 ---
 
