@@ -190,6 +190,7 @@ This list focuses on resources about the why and how to do open source projects,
 * [The Hidden Benefit of Giving Back to Open Source Software](https://hbswk.hbs.edu/item/the-hidden-benefit-of-giving-back-to-open-source-software) - Report about study how contributing to open source projects allows companies to capture more value form using these projects
 * [Getting Started with FLOSS Governance and Compliance
 in Companies](https://dirkriehle.com/wp-content/uploads/2019/06/Getting-Started-with-FLOSS-Governance-Final.pdf) - Research about what the best practices are to introduce a governance program for commercial use of open source software
+* [Socio-technical research using data excavation lab (STRUDEL)](https://cmustrudel.github.io/) - Collection of research about topics such as sustainability and diversity in open source
 
 ---
 
