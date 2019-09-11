@@ -46,6 +46,7 @@ This list focuses on resources about the why and how to do open source projects,
 * [Open Source License Compliance in Software Supply Chains](https://dirkriehle.com/publications/2017-selected/license-clearance-in-software-product-governance/) - Article about what to consider when making sure products based on open source are compliant to the open source licenses
 * [REUSE](https://reuse.software/) - Specification and tools to declare copyright and license in open source software
 * [Blue Oak Council](https://blueoakcouncil.org/) - Resources around legal licensing questions, focused on permissive licenses
+* [Open Source License Checklists](https://www.osadl.org/Access-to-raw-data.oss-compliance-raw-data-access.0.html) - Formal machine-readable representations of obligations of many open source licenses
 
 ## Legal
 
