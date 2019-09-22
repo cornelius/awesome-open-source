@@ -31,6 +31,7 @@ This list focuses on resources about the why and how to do open source projects,
 * [On Consensus and Humming in the IETF](https://tools.ietf.org/html/rfc7282) - Article about rough consensus which is a pattern used in many open source projects in some way
 * [OASIS Open Projects](https://oasis-open-projects.org/) - Program to support projects bringing together open source and open standards
 * [Sustainable Free and Open Source Community](https://sfosc.org/) - Principles of sustainable open source communities and overview of possible open source business models
+* [Open Governance](https://github.com/opengovernance/opengovernance.dev) - Checklist and some pointers regarding open governance in context of open source
 
 ## Licensing
 
