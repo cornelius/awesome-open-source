@@ -48,6 +48,7 @@ This list focuses on resources about the why and how to do open source projects,
 * [REUSE](https://reuse.software/) - Specification and tools to declare copyright and license in open source software
 * [Blue Oak Council](https://blueoakcouncil.org/) - Resources around legal licensing questions, focused on permissive licenses
 * [Open Source License Checklists](https://www.osadl.org/Access-to-raw-data.oss-compliance-raw-data-access.0.html) - Formal machine-readable representations of obligations of many open source licenses
+* [TLDRLegal](https://tldrlegal.com/) - Summary of licenses in plain English
 
 ## Legal
 
