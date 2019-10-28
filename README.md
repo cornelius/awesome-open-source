@@ -149,6 +149,7 @@ This list focuses on resources about the why and how to do open source projects,
 * [How you know your Free of Open Source Software Project is doomed to FAIL](https://spot.livejournal.com/308370.html) - Tom Callaway's famous post about what not to do when running an open source project
 * [What does a sustainable open source project look like?](https://medium.com/libraries-io/what-does-a-sustainable-open-source-project-look-like-bf9b8cf824f8) - Criteria of what makes an open source project sustainable
 * [Methodologies for measuring project health](https://nadiaeghbal.com/project-health) - What are meaningful metrics for measuring health of a project?
+* [Community Health Analytics Open Source Software (CHAOSS)](https://chaoss.community/) - Project to define metrics for community health
 
 ## Development best practices
 
