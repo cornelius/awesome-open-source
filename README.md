@@ -23,7 +23,9 @@ This list focuses on resources about the why and how to do open source projects,
 
 ## Why Open Source?
 
+* [Why open source](https://ben.balter.com/2015/11/23/why-open-source/) - Comprehensive summary of why you should consume, publish, collaborate on, or support open source
 * [Freie Software](http://volle-kraft-voraus.de/De/FreieSoftware) - Overview of what free software is, what the freedoms mean, and what benefit they have (in German) ([English Translation](http://volle-kraft-voraus.de/Main/FreeSoftware))
+* [Why Open Source Software / Free Software (OSS/FS, FLOSS, or FOSS)? Look at the Numbers!](https://dwheeler.com/oss_fs_why.html) - Very detailed collection of data-based research of where open source software is better than proprietary software, data is mostly from 2000 to 2005
 
 ## Governance
 
