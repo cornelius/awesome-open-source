@@ -184,7 +184,7 @@ This list focuses on resources about the why and how to do open source projects,
 
 ### Communication Channels
 
-* [Mailman](http://www.list.org/)) - Popular open source mailing list software
+* [Mailman](http://www.list.org/) - Popular open source mailing list software
 * [Discourse](https://www.discourse.org/) - Open source forum software
 * [Zoom](https://zoom.us/) - Video conferencing
 * [Hangouts](https://hangouts.google.com/) - Video conferencing
