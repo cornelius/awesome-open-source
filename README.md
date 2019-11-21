@@ -76,7 +76,7 @@ This list focuses on resources about the why and how to do open source projects,
 
 ### Code of Conducts
 
-* [Contributor Covenant](https://www.contributor-covenant.org/)) - Popular code of conduct which can easily be adapted to most projects
+* [Contributor Covenant](https://www.contributor-covenant.org/) - Popular code of conduct which can easily be adapted to most projects
 * [Ubuntu Code of Conduct](https://www.ubuntu.com/community/code-of-conduct) - The Ubuntu code of conduct which has been the base for several other code of conducts
 * [KDE Community Code of Conduct](https://www.kde.org/code-of-conduct/) - A code of conduct stressing pragmatism and mutual support
 
