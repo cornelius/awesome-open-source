@@ -150,6 +150,7 @@ This list focuses on resources about the why and how to do open source projects,
 * [What does a sustainable open source project look like?](https://medium.com/libraries-io/what-does-a-sustainable-open-source-project-look-like-bf9b8cf824f8) - Criteria of what makes an open source project sustainable
 * [Methodologies for measuring project health](https://nadiaeghbal.com/project-health) - What are meaningful metrics for measuring health of a project?
 * [Community Health Analytics Open Source Software (CHAOSS)](https://chaoss.community/) - Project to define metrics for community health
+* [Determining the True Openness of Open Source Projects](https://www.linuxfoundation.org/publications/2019/06/determining-true-openness-of-os-projects/) - Definition of areas how to make an open source project, including best and worst practices
 
 ## Development best practices
 
