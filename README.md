@@ -40,6 +40,7 @@ This list focuses on resources about the why and how to do open source projects,
 * [Choose an open source license](https://choosealicense.com/) - Simple license chooser to help you choosing a license for your project
 * [DCO](https://developercertificate.org/) - Developer certificate of origin used by the Linux Kernel and other projects
 * [Contributor License Agreement and Developer Certificate of Origin references](https://toscalix.com/2019/10/13/references-about-cla-dco-fla-and-similar-topics/) - Many links to material about CLA, DCO, FLA and related information
+* [Contributor Agreements](http://contributoragreements.org/) - Information and a tool to create contributor agreements
 * [Open Source License Compliance Handbook](https://github.com/finos-osr/OSLC-handbook) - Detailed guideline how to comply to a large selection of open source licenses
 * [Making Your Code Available Under An Open Source Licence](http://oss-watch.ac.uk/resources/opensourceyourcode) - Overview of how to choose and apply open source licenses
 * [SPDX](https://spdx.org/) - Standards to represent and communicate license information
