@@ -152,6 +152,7 @@ This list focuses on resources about the why and how to do open source projects,
 * [Methodologies for measuring project health](https://nadiaeghbal.com/project-health) - What are meaningful metrics for measuring health of a project?
 * [Community Health Analytics Open Source Software (CHAOSS)](https://chaoss.community/) - Project to define metrics for community health
 * [Determining the True Openness of Open Source Projects](https://www.linuxfoundation.org/publications/2019/06/determining-true-openness-of-os-projects/) - Definition of areas how to make an open source project, including best and worst practices
+* [How to Select Open Source Components](https://www.computer.org/csdl/magazine/co/2019/12/08909944/1f8KJAfHutG) - Selection criteria for open source components
 
 ## Development best practices
 
