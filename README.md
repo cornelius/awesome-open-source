@@ -100,8 +100,10 @@ This list focuses on resources about the why and how to do open source projects,
 ## Funding
 
 * [Nadya Eghbal's "Lemonade Stand"](https://github.com/nayafia/lemonade-stand) - A comprehensive list of funding methods for open source projects
+* [Open Source Software Funding Platforms Registry](http://oss.fund/) - List of platforms for funding open source software development
 * [Open Collective](https://opencollective.com/) - Open source platform for managing and connecting projects, fiscal sponsors, and financial contributors
 * [Decentralized funding? An analysis of three programs](https://nadiaeghbal.com/grant-programs) - Analysis of some programs to fund open source development in an open and decentralized way through development grants
+* [COSSI: Commercial Open Source Software Company Index](http://oss.cash/) - List of companies which make more than 100 million USD revenue from open source software
 
 ## Conferences
 
