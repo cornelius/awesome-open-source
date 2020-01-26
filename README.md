@@ -145,6 +145,7 @@ This list focuses on resources about the why and how to do open source projects,
 
 * [Stackalytics](https://wiki.openstack.org/wiki/Stackalytics) - Open source tool providing contribution statistics used by OpenStack and others
 * [Bitergia](https://bitergia.com/) - Open source contribution metrics
+* [Open Source Contributor Index](https://solutionshub.epam.com/osci) - Statistics about the top contributing companies on GitHub
 
 ### Project quality
 
