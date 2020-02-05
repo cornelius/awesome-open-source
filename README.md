@@ -45,6 +45,7 @@ This list focuses on resources about the why and how to do open source projects,
 * [Making Your Code Available Under An Open Source Licence](http://oss-watch.ac.uk/resources/opensourceyourcode) - Overview of how to choose and apply open source licenses
 * [SPDX](https://spdx.org/) - Standards to represent and communicate license information
 * [Clearly Defined](https://clearlydefined.io) - Project of the Open Source Initiative to get clearly defined license data for open source projects
+* [copyleft.org](https://copyleft.org/) - Detailed information about the GPL and other copyleft licenses
 * [The MIT License, Line by Line](https://writing.kemitchell.com/2016/09/21/MIT-License-Line-by-Line.html) - A very thorough explanation of the MIT license
 * [Open Source License Compliance in Software Supply Chains](https://dirkriehle.com/publications/2017-selected/license-clearance-in-software-product-governance/) - Article about what to consider when making sure products based on open source are compliant to the open source licenses
 * [REUSE](https://reuse.software/) - Specification and tools to declare copyright and license in open source software
