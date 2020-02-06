@@ -128,6 +128,7 @@ This list focuses on resources about the why and how to do open source projects,
 * [Producing Open Source Software](https://producingoss.com/) - Book about how to run an open source project
 * [Open Source Programs Survey](https://github.com/todogroup/survey) - Survey about motivations and expectations in running open source programs in a company
 * [Open Source in the Enterprise](https://aws.amazon.com/opensource/enterprise-oss-book/) - Mini-book with guidelines for enterprises how to use and create open source software
+* [Seven questions to steer open source project community development](https://www.redhat.com/en/blog/seven-questions-steer-open-source-project-community-development) - Checklist with questions how to position open source projects
 
 ### Mentoring Programs
 
