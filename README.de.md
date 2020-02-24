@@ -8,4 +8,5 @@
 
 ## Studien
 
+* [Open Source Monitor 2019](https://www.bitkom.org/sites/default/files/2020-02/20200218_studienbericht-open-source-monitor-2019_0.pdf) - Studie zum Unternehmenseinsatz von Open Source in Deutschland
 * [Open Source Studie 2018](https://oss-studie.ch/) - Studie unter Schweizer Unternehmen zum Einsatz von Open Source
