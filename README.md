@@ -53,6 +53,7 @@ This list focuses on resources about the why and how to do open source projects,
 * [Blue Oak Council](https://blueoakcouncil.org/) - Resources around legal licensing questions, focused on permissive licenses
 * [Open Source License Checklists](https://www.osadl.org/Access-to-raw-data.oss-compliance-raw-data-access.0.html) - Formal machine-readable representations of obligations of many open source licenses
 * [TLDRLegal](https://tldrlegal.com/) - Summary of licenses in plain English
+* [How and why to properly write copyright statements in your code](https://matija.suklje.name/how-and-why-to-properly-write-copyright-statements-in-your-code) - Guide how to write copyright statement including legal background
 
 ## Legal
 
