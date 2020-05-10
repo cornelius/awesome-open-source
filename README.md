@@ -43,6 +43,7 @@ This list focuses on resources about the why and how to do open source projects,
 * [Contributor Agreements](http://contributoragreements.org/) - Information and a tool to create contributor agreements
 * [Open Source License Compliance Handbook](https://github.com/finos-osr/OSLC-handbook) - Detailed guideline how to comply to a large selection of open source licenses
 * [Making Your Code Available Under An Open Source Licence](http://oss-watch.ac.uk/resources/opensourceyourcode) - Overview of how to choose and apply open source licenses
+* [Open source licenses: What, which, and why](https://arstechnica.com/gadgets/2020/02/how-to-choose-an-open-source-license/) - Overview of the most important Open Source licenses and what they mean
 * [SPDX](https://spdx.org/) - Standards to represent and communicate license information
 * [Clearly Defined](https://clearlydefined.io) - Project of the Open Source Initiative to get clearly defined license data for open source projects
 * [copyleft.org](https://copyleft.org/) - Detailed information about the GPL and other copyleft licenses
