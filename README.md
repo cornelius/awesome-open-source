@@ -22,6 +22,7 @@ This list focuses on resources about the why and how to do open source projects,
 * [Marketing](#marketing)
 * [Infrastructure](#infrastructure)
 * [Research](#research)
+* [Inner Source](#inner-source)
 
 ## Governance
 
@@ -214,6 +215,16 @@ in Companies](https://dirkriehle.com/wp-content/uploads/2019/06/Getting-Started-
 * [A $5 Billion Value:
 Estimating the Total Development Cost
 of Linux Foundation's Collaborative Projects](http://www.static.linuxfound.org/sites/main/files/lfpub_cp_cost_estimate2015.pdf) - Study about how much it would cost to develop open source projects from scratch
+
+## Inner Source
+
+[Inner Source](https://en.wikipedia.org/wiki/InnerSource) is not [Open Source]https://en.wikipedia.org/wiki/Open_source) but there is a lot of overlap, especially in terms of culture, practices, and people. That's why it's a section on this list.
+
+* [InnerSource Commons](https://innersourcecommons.org/) - Community of practitioniers of Inner Source
+* [InnerSource Commons Spring Online Summit 2020](https://www.youtube.com/playlist?list=PLCH-i0B0otNQeYBH5QvNRBDA3CMrS9lL9) - Recordings of the talks from the InnerSource Commons Conferene in spring 2020
+* [Adopting InnerSource](https://innersourcecommons.org/resources/books/adoptinginnersource/) - Book with case studies about how companies are doing Inner Source
+* [Europace's journey to InnerSource](https://www.slideshare.net/EnricoHartung/europaces-innersource-journey) - An example how you can do Inner Source by conducting experiments based on basic Inner Soure principles
+* [The Inevitability of InnerSource](https://www.nearform.com/blog/the-inevitability-of-innersource-danese-cooper-tech-talk-video/) - Inner Source in a nutshell, explaining what it is and why it's so powerful
 
 ---
 
