@@ -22,7 +22,11 @@ This list focuses on resources about the why and how to do open source projects,
 * [Marketing](#marketing)
 * [Infrastructure](#infrastructure)
 * [Research](#research)
+<<<<<<< HEAD
 * [Inner Source](#inner-source)
+=======
+* [Surveys](#surveys)
+>>>>>>> 631675e455e4c5632bd1f2da6451ce7ece7124b2
 
 ## Governance
 
@@ -215,6 +219,12 @@ in Companies](https://dirkriehle.com/wp-content/uploads/2019/06/Getting-Started-
 * [A $5 Billion Value:
 Estimating the Total Development Cost
 of Linux Foundation's Collaborative Projects](http://www.static.linuxfound.org/sites/main/files/lfpub_cp_cost_estimate2015.pdf) - Study about how much it would cost to develop open source projects from scratch
+
+## Surveys
+
+* [Open Source Program Survey](https://github.com/todogroup/survey) - Survey by TODO Group about open source adoption and open source programs
+* [The State of Enterprise Open Source](https://www.redhat.com/en/enterprise-open-source-report/2020) - RedHat report about relevance of open source in enterprises
+* [Open Source Survey](https://github.com/github/open-source-survey) - GitHub's survey about open source development
 
 ## Inner Source
 
