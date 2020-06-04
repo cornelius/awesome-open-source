@@ -22,11 +22,8 @@ This list focuses on resources about the why and how to do open source projects,
 * [Marketing](#marketing)
 * [Infrastructure](#infrastructure)
 * [Research](#research)
-<<<<<<< HEAD
-* [Inner Source](#inner-source)
-=======
 * [Surveys](#surveys)
->>>>>>> 631675e455e4c5632bd1f2da6451ce7ece7124b2
+* [Inner Source](#inner-source)
 
 ## Governance
 
