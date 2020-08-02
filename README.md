@@ -66,6 +66,7 @@ This list focuses on resources about the why and how to do open source projects,
 * [OpenChain Project](https://www.openchainproject.org/) - Project to define, support, and certify open source compliance programs
 * [Balanced Employee IP Agreement](https://github.com/github/balanced-employee-ip-agreement) - Reusable agreement which makes sure employees keep the rights on side projects they do not do as part of their job
 * [Open Source Casebook](https://google.github.io/opencasebook/) - Legal analysis of key legal topics in open source, including primary sources
+* [Understanding US export controls with open source projects](https://www.linuxfoundation.org/blog/2020/07/understanding-us-export-controls-with-open-source-projects/) - Whitepaper on what to consider regarding export control regulation which might affect open source projects
 
 ## Culture
 
