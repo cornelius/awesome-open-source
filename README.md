@@ -237,7 +237,7 @@ of Linux Foundation's Collaborative Projects](http://www.static.linuxfound.org/s
 
 ## Inner Source
 
-[Inner Source](https://en.wikipedia.org/wiki/InnerSource) is not [Open Source]https://en.wikipedia.org/wiki/Open_source) but there is a lot of overlap, especially in terms of culture, practices, and people. That's why it's a section on this list.
+[Inner Source](https://en.wikipedia.org/wiki/InnerSource) is not [Open Source](https://en.wikipedia.org/wiki/Open_source) but there is a lot of overlap, especially in terms of culture, practices, and people. That's why it's a section on this list.
 
 * [InnerSource Commons](https://innersourcecommons.org/) - Community of practitioniers of Inner Source
 * [InnerSource Commons Spring Online Summit 2020](https://www.youtube.com/playlist?list=PLCH-i0B0otNQeYBH5QvNRBDA3CMrS9lL9) - Recordings of the talks from the InnerSource Commons Conferene in spring 2020
