@@ -37,26 +37,34 @@ This list focuses on resources about the why and how to do open source projects,
 
 ## Licensing
 
+### Licenses
+
 * [OSI approved licenses](https://opensource.org/licenses) - Canonical list of open source software licenses approved by the Open Source Initiative (OSI)
 * [Creative Commons](https://creativecommons.org) - Open licenses for non-code such as documentation or artwork
 * [Choose an open source license](https://choosealicense.com/) - Simple license chooser to help you choosing a license for your project
-* [DCO](https://developercertificate.org/) - Developer certificate of origin used by the Linux Kernel and other projects
-* [Contributor License Agreement and Developer Certificate of Origin references](https://toscalix.com/2019/10/13/references-about-cla-dco-fla-and-similar-topics/) - Many links to material about CLA, DCO, FLA and related information
-* [Why CLAs aren't good for open source](https://opensource.com/article/19/2/cla-problems) - Article with an argument against CLAs (with a counter-argument in the comments)
-* [Contributor Agreements](http://contributoragreements.org/) - Information and a tool to create contributor agreements
 * [Open Source License Compliance Handbook](https://github.com/finos-osr/OSLC-handbook) - Detailed guideline how to comply to a large selection of open source licenses
+* [Open Source License Checklists](https://www.osadl.org/Access-to-raw-data.oss-compliance-raw-data-access.0.html) - Formal machine-readable representations of obligations of many open source licenses
+* [TLDRLegal](https://tldrlegal.com/) - Summary of licenses in plain English
 * [Making Your Code Available Under An Open Source Licence](http://oss-watch.ac.uk/resources/opensourceyourcode) - Overview of how to choose and apply open source licenses
 * [Open source licenses: What, which, and why](https://arstechnica.com/gadgets/2020/02/how-to-choose-an-open-source-license/) - Overview of the most important Open Source licenses and what they mean
-* [SPDX](https://spdx.org/) - Standards to represent and communicate license information
-* [Clearly Defined](https://clearlydefined.io) - Project of the Open Source Initiative to get clearly defined license data for open source projects
 * [copyleft.org](https://copyleft.org/) - Detailed information about the GPL and other copyleft licenses
 * [GPL Cooperation Commitment](https://gplcc.github.io/gplcc/) - Pledge to cooperatively solve GPL v2 violations
 * [The MIT License, Line by Line](https://writing.kemitchell.com/2016/09/21/MIT-License-Line-by-Line.html) - A very thorough explanation of the MIT license
+
+### License agreements
+
+* [Contributor License Agreement and Developer Certificate of Origin references](https://toscalix.com/2019/10/13/references-about-cla-dco-fla-and-similar-topics/) - Many links to material about CLA, DCO, FLA and related information
+* [Why CLAs aren't good for open source](https://opensource.com/article/19/2/cla-problems) - Article with an argument against CLAs (with a counter-argument in the comments)
+* [Contributor Agreements](http://contributoragreements.org/) - Information and a tool to create contributor agreements
+* [DCO](https://developercertificate.org/) - Developer certificate of origin used by the Linux Kernel and other projects
+
+### License compliance
+
+* [SPDX](https://spdx.org/) - Standards to represent and communicate license information
+* [Clearly Defined](https://clearlydefined.io) - Project of the Open Source Initiative to get clearly defined license data for open source projects
 * [Open Source License Compliance in Software Supply Chains](https://dirkriehle.com/publications/2017-selected/license-clearance-in-software-product-governance/) - Article about what to consider when making sure products based on open source are compliant to the open source licenses
 * [REUSE](https://reuse.software/) - Specification and tools to declare copyright and license in open source software
 * [Blue Oak Council](https://blueoakcouncil.org/) - Resources around legal licensing questions, focused on permissive licenses
-* [Open Source License Checklists](https://www.osadl.org/Access-to-raw-data.oss-compliance-raw-data-access.0.html) - Formal machine-readable representations of obligations of many open source licenses
-* [TLDRLegal](https://tldrlegal.com/) - Summary of licenses in plain English
 * [How and why to properly write copyright statements in your code](https://matija.suklje.name/how-and-why-to-properly-write-copyright-statements-in-your-code) - Guide how to write copyright statement including legal background
 
 ## Legal
