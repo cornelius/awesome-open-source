@@ -207,12 +207,13 @@ This list focuses on resources about the why and how to do open source projects,
 * [GitLab](https://gitlab.com) - Code hosting site whose code is available as open source under an open core model
 * [Savannah](https://savannah.gnu.org/) - Code hosting site for the GNU project and other free software projects
 
-### Communication Channels
+### Communication
 
 * [Mailman](http://www.list.org/) - Popular open source mailing list software
 * [Discourse](https://www.discourse.org/) - Open source forum software
-* [Zoom](https://zoom.us/) - Video conferencing
-* [Hangouts](https://hangouts.google.com/) - Video conferencing
+* [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) - The chat tool originally used by a lot of open source communities
+* [Jitsi](https://jitsi.org/) - Open source video conferencing
+* [BigBlueButton](https://bigbluebutton.org/) - Open source web conferencing system with a focus on online learning
 
 ## Research
 
