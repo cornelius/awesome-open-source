@@ -43,6 +43,7 @@ This list focuses on resources about the why and how to do open source projects,
 * [Creative Commons](https://creativecommons.org) - Open licenses for non-code such as documentation or artwork
 * [Choose an open source license](https://choosealicense.com/) - Simple license chooser to help you choosing a license for your project
 * [Open Source License Compliance Handbook](https://github.com/finos-osr/OSLC-handbook) - Detailed guideline how to comply to a large selection of open source licenses
+* [Open Source Licenses in Detail](http://www.ncb.mu/English/Documents/Open%20Source%20Workshop/4%20-%20Session2-Open%20Source%20Licenses%20in%20Detail.pdf) - Concise overview of most common open source licenses and their compatibility
 * [Open Source License Checklists](https://www.osadl.org/Access-to-raw-data.oss-compliance-raw-data-access.0.html) - Formal machine-readable representations of obligations of many open source licenses
 * [TLDRLegal](https://tldrlegal.com/) - Summary of licenses in plain English
 * [Making Your Code Available Under An Open Source Licence](http://oss-watch.ac.uk/resources/opensourceyourcode) - Overview of how to choose and apply open source licenses
