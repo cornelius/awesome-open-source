@@ -125,9 +125,10 @@ This list focuses on resources about the why and how to do open source projects,
 ## Conferences
 
 * [LWN.net Community Calendar](https://lwn.net/Calendar/) - Calendar tracking events, such as conferences, relevant to the open source community
+* [List of Free Software events](https://en.wikipedia.org/wiki/List_of_free-software_events) - Detailed list of events related to open source
 * [FOSDEM](https://fosdem.org) - Biggest open source developer event in Europe, taking place each February in Brussels
 * [Open Source Summit](https://en.wikipedia.org/wiki/Open_Source_Summit) - Linux Foundation's main event
-* [OSCON](https://en.wikipedia.org/wiki/O%27Reilly_Open_Source_Convention) - O'Reilly's commercial open source conference
+* [OSCON](https://en.wikipedia.org/wiki/O%27Reilly_Open_Source_Convention) - O'Reilly's now discontinued commercial open source conference
 * [Linuxtag](https://en.wikipedia.org/wiki/LinuxTag) - Now discontinued annual event which was instrumental in making open source popular
 
 ## Community
