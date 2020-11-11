@@ -42,6 +42,7 @@ This list focuses on resources about the why and how to do open source projects,
 * [OSI approved licenses](https://opensource.org/licenses) - Canonical list of open source software licenses approved by the Open Source Initiative (OSI)
 * [Creative Commons](https://creativecommons.org) - Open licenses for non-code such as documentation or artwork
 * [Choose an open source license](https://choosealicense.com/) - Simple license chooser to help you choosing a license for your project
+* [Open Source License Compendium (OSLic)](https://telekom.github.io/oslic/) - Compendium with instructions how to fulfill obligations of open source licenses
 * [Open Source License Compliance Handbook](https://github.com/finos-osr/OSLC-handbook) - Detailed guideline how to comply to a large selection of open source licenses
 * [Open Source License Checklists](https://www.osadl.org/Access-to-raw-data.oss-compliance-raw-data-access.0.html) - Formal machine-readable representations of obligations of many open source licenses
 * [TLDRLegal](https://tldrlegal.com/) - Summary of licenses in plain English
