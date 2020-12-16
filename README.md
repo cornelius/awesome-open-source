@@ -177,6 +177,7 @@ This list focuses on resources about the why and how to do open source projects,
 * [Community Health Analytics Open Source Software (CHAOSS)](https://chaoss.community/) - Project to define metrics for community health
 * [Determining the True Openness of Open Source Projects](https://www.linuxfoundation.org/publications/2019/06/determining-true-openness-of-os-projects/) - Definition of areas how to make an open source project, including best and worst practices
 * [How to Select Open Source Components](https://www.computer.org/csdl/magazine/co/2019/12/08909944/1f8KJAfHutG) - Selection criteria for open source components
+* [Open Source Project Criticatility Score](https://github.com/ossf/criticality_score) - Project and tool to quantify criticality of open source projects
 
 ## Development best practices
 
