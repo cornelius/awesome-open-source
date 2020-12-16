@@ -77,6 +77,7 @@ This list focuses on resources about the why and how to do open source projects,
 * [Open Source Casebook](https://google.github.io/opencasebook/) - Legal analysis of key legal topics in open source, including primary sources
 * [Understanding US export controls with open source projects](https://www.linuxfoundation.org/blog/2020/07/understanding-us-export-controls-with-open-source-projects/) - Whitepaper on what to consider regarding export control regulation which might affect open source projects
 * [Journal of Open Law, Technology & Society](https://jolts.world/) - Free legal journal covering issues in the realm of openness, in particular open source software
+* [The International FOSS Law Book](https://github.com/IFOSSLawBook/ifosslawbook) - Background of how open source is seen from the point of view of legal systems in different countries
 
 ## Culture
 
