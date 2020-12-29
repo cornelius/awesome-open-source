@@ -40,6 +40,7 @@ This list focuses on resources about the why and how to do open source projects,
 ### Licenses
 
 * [OSI approved licenses](https://opensource.org/licenses) - Canonical list of open source software licenses approved by the Open Source Initiative (OSI)
+* [Annotated Open Source Definition](https://opensource.org/osd-annotated) - The definition of open source which is the base for the OSI license list, with rationales
 * [Creative Commons](https://creativecommons.org) - Open licenses for non-code such as documentation or artwork
 * [Choose an open source license](https://choosealicense.com/) - Simple license chooser to help you choosing a license for your project
 * [Open Source License Compendium (OSLic)](https://telekom.github.io/oslic/) - Compendium with instructions how to fulfill obligations of open source licenses
