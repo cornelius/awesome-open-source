@@ -79,6 +79,9 @@ This list focuses on resources about the why and how to do open source projects,
 * [Understanding US export controls with open source projects](https://www.linuxfoundation.org/blog/2020/07/understanding-us-export-controls-with-open-source-projects/) - Whitepaper on what to consider regarding export control regulation which might affect open source projects
 * [Journal of Open Law, Technology & Society](https://jolts.world/) - Free legal journal covering issues in the realm of openness, in particular open source software
 * [The International FOSS Law Book](https://github.com/IFOSSLawBook/ifosslawbook) - Background of how open source is seen from the point of view of legal systems in different countries
+* [Requiring a specific Open Source Software in public
+contracts – best practices to adopt] - Guide for requiring open source in public tenders
+* [Guidelines on the acquisition and reuse of software for public administrations](https://docs.italia.it/italia/developers-italia/gl-acquisition-and-reuse-software-for-pa-docs/en/master/index.html) - Guidelines for acquiring open source software in Italy
 
 ## Culture
 
