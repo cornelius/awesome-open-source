@@ -153,6 +153,7 @@ contracts – best practices to adopt] - Guide for requiring open source in publ
 * [Open Source Programs Survey](https://github.com/todogroup/survey) - Survey about motivations and expectations in running open source programs in a company
 * [Open Source in the Enterprise](https://aws.amazon.com/opensource/enterprise-oss-book/) - Mini-book with guidelines for enterprises how to use and create open source software
 * [Seven questions to steer open source project community development](https://www.redhat.com/en/blog/seven-questions-steer-open-source-project-community-development) - Checklist with questions how to position open source projects
+* [All Contributors](https://allcontributors.org/) - Specification and automation to recognize all contributors, not only code contributors
 
 ### Mentoring Programs
 
