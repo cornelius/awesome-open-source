@@ -205,6 +205,7 @@ contracts – best practices to adopt] - Guide for requiring open source in publ
 ## Marketing
 
 * [What I learned from an old GitHub project that won 3000 starts in a weeek](https://www.freecodecamp.org/news/what-i-learned-from-an-old-github-project-that-won-3-000-stars-in-a-week-628349a5ee14/) - Case study of successfully marketing an open source project
+* [afs.one](https://afs.one) - Directory of successful use of open source software
 
 ## Infrastructure
 
