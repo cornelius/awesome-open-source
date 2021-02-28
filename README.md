@@ -119,6 +119,7 @@ contracts – best practices to adopt] - Guide for requiring open source in publ
 * [Software Freedom Conservancy](https://sfconservancy.org/) - Non-profit organization supporting open source communities in legal matters
 * [Software in the Public Interest](http://www.spi-inc.org/) - Non profit organization acting as fiscal sponsor to many open source projects
 * [Commons Conservancy](https://commonsconservancy.org/) - Umbrella organization for open source projects, based in Europe
+* [NumFOCUS](https://numfocus.org/) - Umbrella organization for open source scientific compute projects
 
 ## Funding
 
