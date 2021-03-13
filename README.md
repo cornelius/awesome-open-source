@@ -147,6 +147,7 @@ contracts – best practices to adopt] - Guide for requiring open source in publ
 * [The Art of Community](http://www.artofcommunityonline.org/) - Standard reading on community management
 * [Awesome OSS Management](https://github.com/todogroup/awesome-oss-mgmt) - List of packages and projects helpful for managing open source projects and offices
 * [Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - Resources for running an open source program office
+* [Open Source Program Offices: The Primer on Organizational Structures, Roles and Responsibilities, and Challenges](https://www.linkedin.com/pulse/open-source-program-offices-primer-organizational-roles-haddad/) - Comprehensive overview about how Open Source Program Offices work
 * [TODO Group](https://todogroup.org/) - Group as forum for open source program managers
 * [Open Source Management Training](https://training.linuxfoundation.org/training/fundamentals-of-professional-open-source-management) - Free online course from the Linux Foundation about managing open source programs in the enterprise
 * [Open Leadership Training Series](https://mozilla.github.io/open-leadership-training-series/) - Best practices of working open
