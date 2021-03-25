@@ -63,6 +63,7 @@ This list focuses on resources about the why and how to do open source projects,
 ### License compliance
 
 * [SPDX](https://spdx.org/) - Standards to represent and communicate license information
+* [Tooling Ecosystem working with SPDX](https://docs.google.com/document/d/1A1jFIYihB-IyT0gv7E_KoSjLbwNGmu_wOXBs6siemXA/edit) - Extensive list of tools working with SPDX information
 * [Software Bill of Materials](https://www.ntia.gov/SBOM) - Explanations and examples about what a Sotware Bill of Materials is and how it's used
 * [Clearly Defined](https://clearlydefined.io) - Project of the Open Source Initiative to get clearly defined license data for open source projects
 * [Open Source License Compliance in Software Supply Chains](https://dirkriehle.com/publications/2017-selected/license-clearance-in-software-product-governance/) - Article about what to consider when making sure products based on open source are compliant to the open source licenses
