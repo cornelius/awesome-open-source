@@ -63,6 +63,8 @@ This list focuses on resources about the why and how to do open source projects,
 ### License compliance
 
 * [SPDX](https://spdx.org/) - Standards to represent and communicate license information
+* [Tooling Ecosystem working with SPDX](https://docs.google.com/document/d/1A1jFIYihB-IyT0gv7E_KoSjLbwNGmu_wOXBs6siemXA/edit) - Extensive list of tools working with SPDX information
+* [Software Bill of Materials](https://www.ntia.gov/SBOM) - Explanations and examples about what a Sotware Bill of Materials is and how it's used
 * [Clearly Defined](https://clearlydefined.io) - Project of the Open Source Initiative to get clearly defined license data for open source projects
 * [Open Source License Compliance in Software Supply Chains](https://dirkriehle.com/publications/2017-selected/license-clearance-in-software-product-governance/) - Article about what to consider when making sure products based on open source are compliant to the open source licenses
 * [REUSE](https://reuse.software/) - Specification and tools to declare copyright and license in open source software
@@ -119,6 +121,7 @@ contracts – best practices to adopt] - Guide for requiring open source in publ
 * [Software Freedom Conservancy](https://sfconservancy.org/) - Non-profit organization supporting open source communities in legal matters
 * [Software in the Public Interest](http://www.spi-inc.org/) - Non profit organization acting as fiscal sponsor to many open source projects
 * [Commons Conservancy](https://commonsconservancy.org/) - Umbrella organization for open source projects, based in Europe
+* [NumFOCUS](https://numfocus.org/) - Umbrella organization for open source scientific compute projects
 
 ## Funding
 
@@ -146,6 +149,7 @@ contracts – best practices to adopt] - Guide for requiring open source in publ
 * [The Art of Community](http://www.artofcommunityonline.org/) - Standard reading on community management
 * [Awesome OSS Management](https://github.com/todogroup/awesome-oss-mgmt) - List of packages and projects helpful for managing open source projects and offices
 * [Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - Resources for running an open source program office
+* [Open Source Program Offices: The Primer on Organizational Structures, Roles and Responsibilities, and Challenges](https://www.linkedin.com/pulse/open-source-program-offices-primer-organizational-roles-haddad/) - Comprehensive overview about how Open Source Program Offices work
 * [TODO Group](https://todogroup.org/) - Group as forum for open source program managers
 * [Open Source Management Training](https://training.linuxfoundation.org/training/fundamentals-of-professional-open-source-management) - Free online course from the Linux Foundation about managing open source programs in the enterprise
 * [Open Leadership Training Series](https://mozilla.github.io/open-leadership-training-series/) - Best practices of working open
