@@ -183,6 +183,7 @@ contracts – best practices to adopt] - Guide for requiring open source in publ
 * [Determining the True Openness of Open Source Projects](https://www.linuxfoundation.org/publications/2019/06/determining-true-openness-of-os-projects/) - Definition of areas how to make an open source project, including best and worst practices
 * [How to Select Open Source Components](https://www.computer.org/csdl/magazine/co/2019/12/08909944/1f8KJAfHutG) - Selection criteria for open source components
 * [Open Source Project Criticatility Score](https://github.com/ossf/criticality_score) - Project and tool to quantify criticality of open source projects
+* [fosstars-rating-core](https://sap.github.io/fosstars-rating-core/) - Framework for defining ratings for open source projects
 
 ## Development best practices
 
