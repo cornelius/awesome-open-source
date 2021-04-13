@@ -54,7 +54,7 @@ This list focuses on resources about the why and how to do open source projects,
 * [The MIT License, Line by Line](https://writing.kemitchell.com/2016/09/21/MIT-License-Line-by-Line.html) - A very thorough explanation of the MIT license
 * [License Center](https://github.com/LeChasseur/ifrOSS/blob/master/Lizenzcenter.md) - Categorized list of open source, open content, open data, open hardware licenses
 * [Universal License List](https://open.windriver.com/info/uni-license-list/index.html) - Aggregated list of licenses encountered by a combination of scanning tools
-
+* [Scancode LicenseDB](https://scancode-licensedb.aboutcode.org/) - Extensive list of licenses with meta data such as SPDX identifiers, classification, and links to text representations
 
 ### License agreements
 
