@@ -111,6 +111,10 @@ contracts – best practices to adopt] - Guide for requiring open source in publ
 
 ## Organizations
 
+* [Growing Open Source Projects with a Stable Foundation](https://www.cyrius.com/foss-foundations/growing-open-source-projects.pdf) - Primer about the role of foundations in the open source ecosystem
+
+### Big Free and Open Source Software Foundations
+
 * [Free Software Froundation (FSF)](https://www.fsf.org/) - Organization behind the GNU project, including the family of GNU Public Licenses
 * [Free Software Foundation Europe (FSFE)](https://fsfe.org/) - European organization advocating for Free Software
 * [Open Source Initiative (OSI)](https://opensource.org/) - Organization stewarding the Open Source Definition
