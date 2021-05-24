@@ -269,6 +269,7 @@ of Linux Foundation's Collaborative Projects](http://www.static.linuxfound.org/s
 * [Adopting InnerSource](https://innersourcecommons.org/resources/books/adoptinginnersource/) - Book with case studies about how companies are doing Inner Source
 * [Europace's journey to InnerSource](https://www.slideshare.net/EnricoHartung/europaces-innersource-journey) - An example how you can do Inner Source by conducting experiments based on basic Inner Soure principles
 * [The Inevitability of InnerSource](https://www.nearform.com/blog/the-inevitability-of-innersource-danese-cooper-tech-talk-video/) - Inner Source in a nutshell, explaining what it is and why it's so powerful
+* [Inner Source from a Financial Compliance Perspective](https://www.youtube.com/watch?v=xYLRqUTjcpY) - Explanation of Inner Source from an economic point of view
 
 ---
 
