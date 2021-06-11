@@ -197,6 +197,7 @@ contracts – best practices to adopt] - Guide for requiring open source in publ
 * [How to Select Open Source Components](https://www.computer.org/csdl/magazine/co/2019/12/08909944/1f8KJAfHutG) - Selection criteria for open source components
 * [Open Source Project Criticatility Score](https://github.com/ossf/criticality_score) - Project and tool to quantify criticality of open source projects
 * [fosstars-rating-core](https://sap.github.io/fosstars-rating-core/) - Framework for defining ratings for open source projects
+* [Open Source Insights](https://deps.dev/) - Tool to show details about dependencies of open source packages
 
 ## Development best practices
 
