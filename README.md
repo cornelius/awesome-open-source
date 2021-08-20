@@ -29,7 +29,7 @@ This list focuses on resources about the why and how to do open source projects,
 
 * [Open Source Archetypes](https://blog.mozilla.org/wp-content/uploads/2018/05/MZOTS_OS_Archetypes_report_ext_scr.pdf) - Framework for classifying options how to run open source projects
 * [Open Source Survey](https://opensourcesurvey.org) - Survey ran by GitHub from 2017 about open source development practices and communities
-* [Open Source Government Models](https://github.com/cornelius/open-source-governance) - Collection of data about open source government models
+* [Open Source Governance Models](https://github.com/cornelius/open-source-governance) - Collection of data about open source governance models
 * [On Consensus and Humming in the IETF](https://tools.ietf.org/html/rfc7282) - Article about rough consensus which is a pattern used in many open source projects in some way
 * [OASIS Open Projects](https://oasis-open-projects.org/) - Program to support projects bringing together open source and open standards
 * [Sustainable Free and Open Source Community](https://sfosc.org/) - Principles of sustainable open source communities and overview of possible open source business models
