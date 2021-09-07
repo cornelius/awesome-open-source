@@ -256,6 +256,7 @@ in Companies](https://dirkriehle.com/wp-content/uploads/2019/06/Getting-Started-
 * [A $5 Billion Value:
 Estimating the Total Development Cost
 of Linux Foundation's Collaborative Projects](http://www.static.linuxfound.org/sites/main/files/lfpub_cp_cost_estimate2015.pdf) - Study about how much it would cost to develop open source projects from scratch
+* [The impact of open source software and hardware on technological independence, competitiveness and innovation in the EU economy](https://digital-strategy.ec.europa.eu/en/library/study-about-impact-open-source-software-and-hardware-technological-independence-competitiveness-and) - Study about economic impact of open source in Europe
 
 ## Surveys
 
