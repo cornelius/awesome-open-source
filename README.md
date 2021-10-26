@@ -24,6 +24,7 @@ This list focuses on resources about the why and how to do open source projects,
 * [Research](#research)
 * [Surveys](#surveys)
 * [Inner Source](#inner-source)
+* [History](#history)
 
 ## Governance
 
@@ -86,7 +87,7 @@ This list focuses on resources about the why and how to do open source projects,
 * [Journal of Open Law, Technology & Society](https://jolts.world/) - Free legal journal covering issues in the realm of openness, in particular open source software
 * [The International FOSS Law Book](https://github.com/IFOSSLawBook/ifosslawbook) - Background of how open source is seen from the point of view of legal systems in different countries
 * [Requiring a specific Open Source Software in public
-contracts – best practices to adopt] - Guide for requiring open source in public tenders
+contracts – best practices to adopt](https://www.lfenergy.org/wp-content/uploads/sites/67/2019/10/Note_OpenSource_CompetitionLaw_EN-1.1.pdf) - Guide for requiring open source in public tenders
 * [Guidelines on the acquisition and reuse of software for public administrations](https://docs.italia.it/italia/developers-italia/gl-acquisition-and-reuse-software-for-pa-docs/en/master/index.html) - Guidelines for acquiring open source software in Italy
 
 ## Culture
@@ -255,6 +256,7 @@ in Companies](https://dirkriehle.com/wp-content/uploads/2019/06/Getting-Started-
 * [A $5 Billion Value:
 Estimating the Total Development Cost
 of Linux Foundation's Collaborative Projects](http://www.static.linuxfound.org/sites/main/files/lfpub_cp_cost_estimate2015.pdf) - Study about how much it would cost to develop open source projects from scratch
+* [The impact of open source software and hardware on technological independence, competitiveness and innovation in the EU economy](https://digital-strategy.ec.europa.eu/en/library/study-about-impact-open-source-software-and-hardware-technological-independence-competitiveness-and) - Study about economic impact of open source in Europe
 
 ## Surveys
 
@@ -272,6 +274,10 @@ of Linux Foundation's Collaborative Projects](http://www.static.linuxfound.org/s
 * [Europace's journey to InnerSource](https://www.slideshare.net/EnricoHartung/europaces-innersource-journey) - An example how you can do Inner Source by conducting experiments based on basic Inner Soure principles
 * [The Inevitability of InnerSource](https://www.nearform.com/blog/the-inevitability-of-innersource-danese-cooper-tech-talk-video/) - Inner Source in a nutshell, explaining what it is and why it's so powerful
 * [Inner Source from a Financial Compliance Perspective](https://www.youtube.com/watch?v=xYLRqUTjcpY) - Explanation of Inner Source from an economic point of view
+
+## History
+
+* [Revolution OS](https://www.youtube.com/watch?v=jw8K460vx1c) - Documentary film about the history of free software, open source, and Linux from 2001
 
 ---
 
