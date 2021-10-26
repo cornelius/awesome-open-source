@@ -185,7 +185,7 @@ contracts – best practices to adopt] - Guide for requiring open source in publ
 
 * [Stackalytics](https://wiki.openstack.org/wiki/Stackalytics) - Open source tool providing contribution statistics used by OpenStack and others
 * [Bitergia](https://bitergia.com/) - Open source contribution metrics
-* [Open Source Contributor Index](https://solutionshub.epam.com/osci) - Statistics about the top contributing companies on GitHub
+* [Open Source Contributor Index](https://opensourceindex.io/) - Statistics about the top contributing companies on GitHub
 
 ### Project quality
 
