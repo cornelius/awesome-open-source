@@ -37,6 +37,7 @@ This list focuses on resources about the why and how to do open source projects,
 * [Sustain](https://sustainoss.org/) - Group of people, events, and material about sustainability of open source projects
 * [Open Governance](https://github.com/opengovernance/opengovernance.dev) - Checklist and some pointers regarding open governance in context of open source
 * [Minimum Viable Governance](https://github.com/github/MVG) - A minimum governance model template
+* [The Four Opens](https://openinfra.dev/four-opens/) - Example of an open governance model
 
 ## Licensing
 
