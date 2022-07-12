@@ -160,6 +160,7 @@ contracts – best practices to adopt](https://www.lfenergy.org/wp-content/uploa
 * [Measuring Engagement](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g4435d357b_20) - Study by Mozilla about how responsiveness affects contributions
 * [Open Source Guides](https://opensource.guide/) - Collection of resources about how to run and contribute to an open source projects
 * [The Art of Community](http://www.artofcommunityonline.org/) - Standard reading on community management
+* [Five Pillars of Building Developer Communities at HashiCorp](https://janairis.medium.com/five-pillars-of-building-developer-communities-at-hashicorp-9c8f50198eb8) - How to build a community
 * [Awesome OSS Management](https://github.com/todogroup/awesome-oss-mgmt) - List of packages and projects helpful for managing open source projects and offices
 * [Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - Resources for running an open source program office
 * [Open Source Program Offices: The Primer on Organizational Structures, Roles and Responsibilities, and Challenges](https://www.linkedin.com/pulse/open-source-program-offices-primer-organizational-roles-haddad/) - Comprehensive overview about how Open Source Program Offices work
