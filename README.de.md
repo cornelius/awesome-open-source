@@ -4,7 +4,7 @@
 
 ## Allgemein
 
-* [Bitkom-Leitfaden zu Open-Source-Software 2.0](https://www.bitkom.org/Bitkom/Publikationen/Bitkom-Leitfaden-zu-Open-Source-Software-20.html) - Ausführlicher Überblick der geschäftlichen und rechtlichen Grundlagen von Open Source
+* [Bitkom Open-Source-Leitfaden: Praxisempfehlungen für Open-Source-Software Version 3.0](https://www.bitkom.org/Bitkom/Publikationen/Open-Source-Leitfaden-Praxisempfehlungen-fuer-Open-Source-Software-Version-30) - Ausführlicher Überblick der geschäftlichen und rechtlichen Grundlagen von Open Source
 * [Open Source Explained (in German, without Jargon, in 1500 Words)](https://dirkriehle.com/2021/04/20/open-source-explained-in-german-without-jargon-in-1500-words/) - Exzellente Erklärung was Open Source ist
 
 ## Öffentlicher Sektor
