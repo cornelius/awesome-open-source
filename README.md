@@ -34,8 +34,10 @@ This list focuses on resources about the why and how to do open source projects,
 * [On Consensus and Humming in the IETF](https://tools.ietf.org/html/rfc7282) - Article about rough consensus which is a pattern used in many open source projects in some way
 * [OASIS Open Projects](https://oasis-open-projects.org/) - Program to support projects bringing together open source and open standards
 * [Sustainable Free and Open Source Community](https://sfosc.org/) - Principles of sustainable open source communities and overview of possible open source business models
+* [Sustain](https://sustainoss.org/) - Group of people, events, and material about sustainability of open source projects
 * [Open Governance](https://github.com/opengovernance/opengovernance.dev) - Checklist and some pointers regarding open governance in context of open source
 * [Minimum Viable Governance](https://github.com/github/MVG) - A minimum governance model template
+* [The Four Opens](https://openinfra.dev/four-opens/) - Example of an open governance model
 
 ## Licensing
 
@@ -275,6 +277,7 @@ of Linux Foundation's Collaborative Projects](http://www.static.linuxfound.org/s
 * [Europace's journey to InnerSource](https://www.slideshare.net/EnricoHartung/europaces-innersource-journey) - An example how you can do Inner Source by conducting experiments based on basic Inner Soure principles
 * [The Inevitability of InnerSource](https://www.nearform.com/blog/the-inevitability-of-innersource-danese-cooper-tech-talk-video/) - Inner Source in a nutshell, explaining what it is and why it's so powerful
 * [Inner Source from a Financial Compliance Perspective](https://www.youtube.com/watch?v=xYLRqUTjcpY) - Explanation of Inner Source from an economic point of view
+* [InnerSource Patterns](https://patterns.innersourcecommons.org/) - Tactics of applying Inner Source methodologies in the format of common patterns
 
 ## History
 
