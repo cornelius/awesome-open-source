@@ -141,7 +141,7 @@ contracts – best practices to adopt](https://www.lfenergy.org/wp-content/uploa
 * [Open Source Software Funding Platforms Registry](https://www.oss.fund/) - List of platforms for funding open source software development
 * [Open Collective](https://opencollective.com/) - Open source platform for managing and connecting projects, fiscal sponsors, and financial contributors
 * [Decentralized funding? An analysis of three programs](https://nadiaeghbal.com/grant-programs) - Analysis of some programs to fund open source development in an open and decentralized way through development grants
-* [COSSI: Commercial Open Source Software Company Index](http://oss.cash/) - List of companies which make more than 100 million USD revenue from open source software
+* [COSSI: Commercial Open Source Software Company Index](https://docs.google.com/spreadsheets/d/17nKMpi_Dh5slCqzLSFBoWMxNvWiwt2R-t4e_l7LPLhU/edit#gid=0) - List of companies which make more than million USD revenue from open source software
 * [FOSS Contributor Fund](https://github.com/indeedeng/FOSS-Contributor-Fund) - Framework for selecting projects a company supports financially
 
 ## Conferences
