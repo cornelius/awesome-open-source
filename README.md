@@ -138,7 +138,7 @@ contracts – best practices to adopt](https://www.lfenergy.org/wp-content/uploa
 ## Funding
 
 * [Nadya Eghbal's "Lemonade Stand"](https://github.com/nayafia/lemonade-stand) - A comprehensive list of funding methods for open source projects
-* [Open Source Software Funding Platforms Registry](http://oss.fund/) - List of platforms for funding open source software development
+* [Open Source Software Funding Platforms Registry](https://www.oss.fund/) - List of platforms for funding open source software development
 * [Open Collective](https://opencollective.com/) - Open source platform for managing and connecting projects, fiscal sponsors, and financial contributors
 * [Decentralized funding? An analysis of three programs](https://nadiaeghbal.com/grant-programs) - Analysis of some programs to fund open source development in an open and decentralized way through development grants
 * [COSSI: Commercial Open Source Software Company Index](http://oss.cash/) - List of companies which make more than 100 million USD revenue from open source software
@@ -159,7 +159,7 @@ contracts – best practices to adopt](https://www.lfenergy.org/wp-content/uploa
 
 * [Measuring Engagement](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g4435d357b_20) - Study by Mozilla about how responsiveness affects contributions
 * [Open Source Guides](https://opensource.guide/) - Collection of resources about how to run and contribute to an open source projects
-* [The Art of Community](http://www.artofcommunityonline.org/) - Standard reading on community management
+* [The Art of Community](https://www.jonobacon.com/books/artofcommunity/) - Standard reading on community management
 * [Five Pillars of Building Developer Communities at HashiCorp](https://janairis.medium.com/five-pillars-of-building-developer-communities-at-hashicorp-9c8f50198eb8) - How to build a community
 * [Awesome OSS Management](https://github.com/todogroup/awesome-oss-mgmt) - List of packages and projects helpful for managing open source projects and offices
 * [Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - Resources for running an open source program office
@@ -239,7 +239,7 @@ contracts – best practices to adopt](https://www.lfenergy.org/wp-content/uploa
 
 ### Communication
 
-* [Mailman](http://www.list.org/) - Popular open source mailing list software
+* [Mailman](https://www.list.org/) - Popular open source mailing list software
 * [Discourse](https://www.discourse.org/) - Open source forum software
 * [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) - The chat tool originally used by a lot of open source communities
 * [Jitsi](https://jitsi.org/) - Open source video conferencing
@@ -256,10 +256,10 @@ contracts – best practices to adopt](https://www.lfenergy.org/wp-content/uploa
 * [Getting Started with FLOSS Governance and Compliance
 in Companies](https://dirkriehle.com/wp-content/uploads/2019/06/Getting-Started-with-FLOSS-Governance-Final.pdf) - Research about what the best practices are to introduce a governance program for commercial use of open source software
 * [Socio-technical research using data excavation lab (STRUDEL)](https://cmustrudel.github.io/) - Collection of research about topics such as sustainability and diversity in open source
-* [Guiding Development of Contribution and Community Strategies in Open Source Software Requirements Engineering](http://cs.lth.se/johan-linaker/doctoral-thesis/) - Research and guidance about what to share and contribute in an open source community as corporation
+* [Guiding Development of Contribution and Community Strategies in Open Source Software Requirements Engineering](https://cs.lth.se/johan-linaker/doctoral-thesis/) - Research and guidance about what to share and contribute in an open source community as corporation
 * [A $5 Billion Value:
 Estimating the Total Development Cost
-of Linux Foundation's Collaborative Projects](http://www.static.linuxfound.org/sites/main/files/lfpub_cp_cost_estimate2015.pdf) - Study about how much it would cost to develop open source projects from scratch
+of Linux Foundation's Collaborative Projects](https://www.static.linuxfound.org/sites/main/files/lfpub_cp_cost_estimate2015.pdf) - Study about how much it would cost to develop open source projects from scratch
 * [The impact of open source software and hardware on technological independence, competitiveness and innovation in the EU economy](https://digital-strategy.ec.europa.eu/en/library/study-about-impact-open-source-software-and-hardware-technological-independence-competitiveness-and) - Study about economic impact of open source in Europe
 
 ## Surveys
