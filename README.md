@@ -97,7 +97,7 @@ contracts – best practices to adopt](https://www.lfenergy.org/wp-content/uploa
 
 * [The Cathedral and the Bazaar](http://www.catb.org/~esr/writings/cathedral-bazaar/) - Influential paper by Eric Raymond from 1997 laying out the principles of open source
 * [Contempt Culture](https://blog.aurynn.com/2015/12/16-contempt-culture) - Advice about how to create a healthy and respectful culture, explained at the example of contempt towards other programming languages
-* [The people behind the code](https://github.com/open-source/stories) - Interviews with open source contributors
+* [The people behind the code](https://github.com/customer-stories?anchor=results&type=developers) - Interviews with open source contributors
 * [Open Source Diversity](https://opensourcediversity.org/) - List of information, projects, and other resources supporting more diversity and inclusion in open source communitites
 * [What is open?](https://okfn.org/opendata/) - Beyond open source software, what is open data and content?
 * [Open Advice](http://open-advice.org/) - Answers the question what 42 prominent contributors would have liked to know when they started with open source
