@@ -86,7 +86,7 @@ This list focuses on resources about the why and how to do open source projects,
 * [OpenChain Project](https://www.openchainproject.org/) - Project to define, support, and certify open source compliance programs
 * [Balanced Employee IP Agreement](https://github.com/github/balanced-employee-ip-agreement) - Reusable agreement which makes sure employees keep the rights on side projects they do not do as part of their job
 * [Open Source Casebook](https://google.github.io/opencasebook/) - Legal analysis of key legal topics in open source, including primary sources
-* [Understanding US export controls with open source projects](https://www.linuxfoundation.org/blog/2020/07/understanding-us-export-controls-with-open-source-projects/) - Whitepaper on what to consider regarding export control regulation which might affect open source projects
+* [Understanding US export controls with open source projects](https://www.linuxfoundation.org/tool/understanding-us-export-controls-with-open-source-projects/) - Whitepaper on what to consider regarding export control regulation which might affect open source projects
 * [Journal of Open Law, Technology & Society](https://jolts.world/) - Free legal journal covering issues in the realm of openness, in particular open source software
 * [The International FOSS Law Book](https://github.com/IFOSSLawBook/ifosslawbook) - Background of how open source is seen from the point of view of legal systems in different countries
 * [Requiring a specific Open Source Software in public
@@ -97,7 +97,7 @@ contracts – best practices to adopt](https://www.lfenergy.org/wp-content/uploa
 
 * [The Cathedral and the Bazaar](http://www.catb.org/~esr/writings/cathedral-bazaar/) - Influential paper by Eric Raymond from 1997 laying out the principles of open source
 * [Contempt Culture](https://blog.aurynn.com/2015/12/16-contempt-culture) - Advice about how to create a healthy and respectful culture, explained at the example of contempt towards other programming languages
-* [The people behind the code](https://github.com/open-source/stories) - Interviews with open source contributors
+* [The people behind the code](https://github.com/customer-stories?anchor=results&type=developers) - Interviews with open source contributors
 * [Open Source Diversity](https://opensourcediversity.org/) - List of information, projects, and other resources supporting more diversity and inclusion in open source communitites
 * [What is open?](https://okfn.org/opendata/) - Beyond open source software, what is open data and content?
 * [Open Advice](http://open-advice.org/) - Answers the question what 42 prominent contributors would have liked to know when they started with open source
@@ -138,10 +138,10 @@ contracts – best practices to adopt](https://www.lfenergy.org/wp-content/uploa
 ## Funding
 
 * [Nadya Eghbal's "Lemonade Stand"](https://github.com/nayafia/lemonade-stand) - A comprehensive list of funding methods for open source projects
-* [Open Source Software Funding Platforms Registry](http://oss.fund/) - List of platforms for funding open source software development
+* [Open Source Software Funding Platforms Registry](https://www.oss.fund/) - List of platforms for funding open source software development
 * [Open Collective](https://opencollective.com/) - Open source platform for managing and connecting projects, fiscal sponsors, and financial contributors
 * [Decentralized funding? An analysis of three programs](https://nadiaeghbal.com/grant-programs) - Analysis of some programs to fund open source development in an open and decentralized way through development grants
-* [COSSI: Commercial Open Source Software Company Index](http://oss.cash/) - List of companies which make more than 100 million USD revenue from open source software
+* [COSSI: Commercial Open Source Software Company Index](https://docs.google.com/spreadsheets/d/17nKMpi_Dh5slCqzLSFBoWMxNvWiwt2R-t4e_l7LPLhU/edit#gid=0) - List of companies which make more than million USD revenue from open source software
 * [FOSS Contributor Fund](https://github.com/indeedeng/FOSS-Contributor-Fund) - Framework for selecting projects a company supports financially
 
 ## Conferences
@@ -159,7 +159,7 @@ contracts – best practices to adopt](https://www.lfenergy.org/wp-content/uploa
 
 * [Measuring Engagement](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g4435d357b_20) - Study by Mozilla about how responsiveness affects contributions
 * [Open Source Guides](https://opensource.guide/) - Collection of resources about how to run and contribute to an open source projects
-* [The Art of Community](http://www.artofcommunityonline.org/) - Standard reading on community management
+* [The Art of Community](https://www.jonobacon.com/books/artofcommunity/) - Standard reading on community management
 * [Five Pillars of Building Developer Communities at HashiCorp](https://janairis.medium.com/five-pillars-of-building-developer-communities-at-hashicorp-9c8f50198eb8) - How to build a community
 * [Awesome OSS Management](https://github.com/todogroup/awesome-oss-mgmt) - List of packages and projects helpful for managing open source projects and offices
 * [Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - Resources for running an open source program office
@@ -239,7 +239,7 @@ contracts – best practices to adopt](https://www.lfenergy.org/wp-content/uploa
 
 ### Communication
 
-* [Mailman](http://www.list.org/) - Popular open source mailing list software
+* [Mailman](https://www.list.org/) - Popular open source mailing list software
 * [Discourse](https://www.discourse.org/) - Open source forum software
 * [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) - The chat tool originally used by a lot of open source communities
 * [Jitsi](https://jitsi.org/) - Open source video conferencing
@@ -256,10 +256,10 @@ contracts – best practices to adopt](https://www.lfenergy.org/wp-content/uploa
 * [Getting Started with FLOSS Governance and Compliance
 in Companies](https://dirkriehle.com/wp-content/uploads/2019/06/Getting-Started-with-FLOSS-Governance-Final.pdf) - Research about what the best practices are to introduce a governance program for commercial use of open source software
 * [Socio-technical research using data excavation lab (STRUDEL)](https://cmustrudel.github.io/) - Collection of research about topics such as sustainability and diversity in open source
-* [Guiding Development of Contribution and Community Strategies in Open Source Software Requirements Engineering](http://cs.lth.se/johan-linaker/doctoral-thesis/) - Research and guidance about what to share and contribute in an open source community as corporation
+* [Guiding Development of Contribution and Community Strategies in Open Source Software Requirements Engineering](https://cs.lth.se/johan-linaker/doctoral-thesis/) - Research and guidance about what to share and contribute in an open source community as corporation
 * [A $5 Billion Value:
 Estimating the Total Development Cost
-of Linux Foundation's Collaborative Projects](http://www.static.linuxfound.org/sites/main/files/lfpub_cp_cost_estimate2015.pdf) - Study about how much it would cost to develop open source projects from scratch
+of Linux Foundation's Collaborative Projects](https://www.static.linuxfound.org/sites/main/files/lfpub_cp_cost_estimate2015.pdf) - Study about how much it would cost to develop open source projects from scratch
 * [The impact of open source software and hardware on technological independence, competitiveness and innovation in the EU economy](https://digital-strategy.ec.europa.eu/en/library/study-about-impact-open-source-software-and-hardware-technological-independence-competitiveness-and) - Study about economic impact of open source in Europe
 
 ## Surveys
