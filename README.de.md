@@ -22,3 +22,4 @@ Open-Source-Software](https://www.cio.bund.de/SharedDocs/Publikationen/DE/Archit
 ## Lizenzen
 
 * [Rechtliche Fallstricke des Einsatzes von Open Source Software und freier Software – Hinweise für die Praxis](https://link.springer.com/article/10.1365/s40702-021-00705-3) - Überblick über die rechtlichen Fragen zu Open-Source-Lizenzen und wie sie beantwortet werden können
+* [ifrOSS Lizenzcenter](https://ifross.github.io/ifrOSS/Lizenzcenter) - Kategorisierung von Lizenzen für freie Inhalte
