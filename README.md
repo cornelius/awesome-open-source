@@ -10,6 +10,7 @@ This list focuses on resources about the why and how to do open source projects,
 
 ## Contents
 
+* [Management](#management)
 * [Governance](#governance)
 * [Licensing](#licensing)
 * [Legal](#legal)
@@ -25,6 +26,16 @@ This list focuses on resources about the why and how to do open source projects,
 * [Surveys](#surveys)
 * [Inner Source](#inner-source)
 * [History](#history)
+
+## Management
+
+* [Awesome OSS Management](https://github.com/todogroup/awesome-oss-mgmt) - List of packages and projects helpful for managing open source projects and offices
+* [Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - Resources for running an open source program office
+* [Open Source Program Offices: The Primer on Organizational Structures, Roles and Responsibilities, and Challenges](https://www.linkedin.com/pulse/open-source-program-offices-primer-organizational-roles-haddad/) - Comprehensive overview about how Open Source Program Offices work
+* [TODO Group](https://todogroup.org/) - Group as forum for open source program managers
+* [Open Source Management Training](https://training.linuxfoundation.org/training/fundamentals-of-professional-open-source-management) - Free online course from the Linux Foundation about managing open source programs in the enterprise
+* [Open Source Programs Survey](https://github.com/todogroup/survey) - Survey about motivations and expectations in running open source programs in a company
+* [Open Source in the Enterprise](https://aws.amazon.com/opensource/enterprise-oss-book/) - Mini-book with guidelines for enterprises how to use and create open source software
 
 ## Governance
 
@@ -161,15 +172,8 @@ contracts – best practices to adopt](https://www.lfenergy.org/wp-content/uploa
 * [Open Source Guides](https://opensource.guide/) - Collection of resources about how to run and contribute to an open source projects
 * [The Art of Community](https://www.jonobacon.com/books/artofcommunity/) - Standard reading on community management
 * [Five Pillars of Building Developer Communities at HashiCorp](https://janairis.medium.com/five-pillars-of-building-developer-communities-at-hashicorp-9c8f50198eb8) - How to build a community
-* [Awesome OSS Management](https://github.com/todogroup/awesome-oss-mgmt) - List of packages and projects helpful for managing open source projects and offices
-* [Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - Resources for running an open source program office
-* [Open Source Program Offices: The Primer on Organizational Structures, Roles and Responsibilities, and Challenges](https://www.linkedin.com/pulse/open-source-program-offices-primer-organizational-roles-haddad/) - Comprehensive overview about how Open Source Program Offices work
-* [TODO Group](https://todogroup.org/) - Group as forum for open source program managers
-* [Open Source Management Training](https://training.linuxfoundation.org/training/fundamentals-of-professional-open-source-management) - Free online course from the Linux Foundation about managing open source programs in the enterprise
 * [Open Leadership Training Series](https://mozilla.github.io/open-leadership-training-series/) - Best practices of working open
 * [Producing Open Source Software](https://producingoss.com/) - Book about how to run an open source project
-* [Open Source Programs Survey](https://github.com/todogroup/survey) - Survey about motivations and expectations in running open source programs in a company
-* [Open Source in the Enterprise](https://aws.amazon.com/opensource/enterprise-oss-book/) - Mini-book with guidelines for enterprises how to use and create open source software
 * [Seven questions to steer open source project community development](https://www.redhat.com/en/blog/seven-questions-steer-open-source-project-community-development) - Checklist with questions how to position open source projects
 * [All Contributors](https://allcontributors.org/) - Specification and automation to recognize all contributors, not only code contributors
 * [OpenDRI & GeoNode: A Case Study for Institutional Investments in Open Source](https://opendri.org/resource/opendri-geonode-a-case-study-for-institutional-investments-in-open-source/) - Case study how building a community around an open source project created a 200% return on investment
