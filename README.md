@@ -36,6 +36,7 @@ This list focuses on resources about the why and how to do open source projects,
 * [Open Source Management Training](https://training.linuxfoundation.org/training/fundamentals-of-professional-open-source-management) - Free online course from the Linux Foundation about managing open source programs in the enterprise
 * [Open Source Programs Survey](https://github.com/todogroup/survey) - Survey about motivations and expectations in running open source programs in a company
 * [Open Source in the Enterprise](https://aws.amazon.com/opensource/enterprise-oss-book/) - Mini-book with guidelines for enterprises how to use and create open source software
+* [OSPO Definition](https://ospodefinition.org/) - Definition of an Open Source Program Office and what it does (addressing Fear, Love, and Money)
 
 ## Governance
 
