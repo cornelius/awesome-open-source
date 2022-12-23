@@ -244,6 +244,7 @@ contracts – best practices to adopt](https://www.lfenergy.org/wp-content/uploa
 * [Scaling from 2,000 to 25,000 engineers on GitHub at Microsoft](https://jeffwilcox.blog/2019/06/scaling-25k/) - Detailed report about how to scale an organization on GitHub with pointers to tools and best practices
 * [GitLab](https://gitlab.com) - Code hosting site whose code is available as open source under an open core model
 * [Savannah](https://savannah.gnu.org/) - Code hosting site for the GNU project and other free software projects
+* [Codeberg](https://codeberg.org/) - collaboration platform and Git hosting for Free and Open Source Software, content and projects
 
 ### Communication
 
