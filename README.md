@@ -292,6 +292,7 @@ of Linux Foundation's Collaborative Projects](https://www.static.linuxfound.org/
 ## History
 
 * [Revolution OS](https://www.youtube.com/watch?v=jw8K460vx1c) - Documentary film about the history of free software, open source, and Linux from 2001
+* [A Brief History of Free, Open Source Software and Its Communities](https://ieeexplore.ieee.org/document/9353517) - Short overview of early open source communities and foundations
 
 ---
 
