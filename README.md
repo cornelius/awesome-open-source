@@ -92,6 +92,7 @@ This list focuses on resources about the why and how to do open source projects,
 * [REUSE](https://reuse.software/) - Specification and tools to declare copyright and license in open source software
 * [Blue Oak Council](https://blueoakcouncil.org/) - Resources around legal licensing questions, focused on permissive licenses
 * [How and why to properly write copyright statements in your code](https://matija.suklje.name/how-and-why-to-properly-write-copyright-statements-in-your-code) - Guide how to write copyright statement including legal background
+* [SCANOSS](https://github.com/scanoss) - Open Source Software Composition Analysis platform. Allows automation of license compliance validation identifying known Open Source dependencies, files or snippets in your code
 
 ## Legal
 
@@ -141,6 +142,7 @@ contracts – best practices to adopt](https://www.lfenergy.org/wp-content/uploa
 * [Linux Foundation](https://www.linuxfoundation.org/) - Organization supporting open source communities and industries through governance, events, and training
 * [Apache Software Foundation](http://www.apache.org/) - Organization providing home and governance to a large set of open source projects, including the Apache HTTP Server
 * [Eclipse Foundation](https://www.eclipse.org/org/foundation/) - Organization home to the Eclipse IDE and hundreds of other projects in domains such as IoT and others
+* [Software Transparency Foundation] (https://st.foundation) - Provides anonymous, free public API services for SBOM generation and notarization
 
 ### Umbrella Organizations
 
