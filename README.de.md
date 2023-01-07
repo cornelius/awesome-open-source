@@ -24,3 +24,4 @@ Open-Source-Software](https://www.cio.bund.de/SharedDocs/Publikationen/DE/Archit
 * [Rechtliche Fallstricke des Einsatzes von Open Source Software und freier Software – Hinweise für die Praxis](https://link.springer.com/article/10.1365/s40702-021-00705-3) - Überblick über die rechtlichen Fragen zu Open-Source-Lizenzen und wie sie beantwortet werden können
 * [ifrOSS Lizenzcenter](https://ifross.github.io/ifrOSS/Lizenzcenter) - Kategorisierung von Lizenzen für freie Inhalte
 * [GPL und Haftung - Ohne Verantwortung?](https://www.ifross.org/ifross_html/art3.html) - Betrachtung von Haftung und Gewährleistung für Open-Source-Software aus Sicht des deutschen Rechts
+* [Introduction to software protection under German law](https://github.com/IFOSSLawBook/ifosslawbook/blob/master/src/50-Germany.markdown) - Übersicht über die Wirkung des deutschen Urheberrechts auf Software (auf Englisch)
