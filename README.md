@@ -32,9 +32,9 @@ This list focuses on resources about the why and how to do open source projects,
 * [Awesome OSS Management](https://github.com/todogroup/awesome-oss-mgmt) - List of packages and projects helpful for managing open source projects and offices
 * [Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - Resources for running an open source program office
 * [Open Source Program Offices: The Primer on Organizational Structures, Roles and Responsibilities, and Challenges](https://www.linkedin.com/pulse/open-source-program-offices-primer-organizational-roles-haddad/) - Comprehensive overview about how Open Source Program Offices work
-* [TODO Group](https://todogroup.org/) - Group as forum for open source program managers
+* [TODO Group](https://todogroup.org/) - Group of practioners of open source management, initiated by the Linux Foundation
+* [OSPO Alliance](https://ospo.zone/) - Group of practioners of open source management, initiated by the Eclipse Foundation
 * [Open Source Management Training](https://training.linuxfoundation.org/training/fundamentals-of-professional-open-source-management) - Free online course from the Linux Foundation about managing open source programs in the enterprise
-* [Open Source Programs Survey](https://github.com/todogroup/survey) - Survey about motivations and expectations in running open source programs in a company
 * [Open Source in the Enterprise](https://aws.amazon.com/opensource/enterprise-oss-book/) - Mini-book with guidelines for enterprises how to use and create open source software
 * [OSPO Definition](https://ospodefinition.org/) - Definition of an Open Source Program Office and what it does (addressing Fear, Love, and Money)
 
@@ -44,10 +44,10 @@ This list focuses on resources about the why and how to do open source projects,
 * [Open Source Survey](https://opensourcesurvey.org) - Survey ran by GitHub from 2017 about open source development practices and communities
 * [Open Source Governance Models](https://github.com/cornelius/open-source-governance) - Collection of data about open source governance models
 * [On Consensus and Humming in the IETF](https://tools.ietf.org/html/rfc7282) - Article about rough consensus which is a pattern used in many open source projects in some way
-* [OASIS Open Projects](https://oasis-open-projects.org/) - Program to support projects bringing together open source and open standards
 * [Sustainable Free and Open Source Community](https://sfosc.org/) - Principles of sustainable open source communities and overview of possible open source business models
 * [Sustain](https://sustainoss.org/) - Group of people, events, and material about sustainability of open source projects
 * [Open Governance](https://github.com/opengovernance/opengovernance.dev) - Checklist and some pointers regarding open governance in context of open source
+* [Determining the True Openness of Open Source Projects](https://www.linuxfoundation.jp/publications/2019/06/determining-true-openness-of-os-projects/) - Definition of areas how to make an open source project, including best and worst practices
 * [Minimum Viable Governance](https://github.com/github/MVG) - A minimum governance model template
 * [The Four Opens](https://openinfra.dev/four-opens/) - Example of an open governance model
 * [Governance Game](https://github.com/publiccodenet/governance-game) - Card game to explore governance of open source projects in the public sector
@@ -87,6 +87,8 @@ This list focuses on resources about the why and how to do open source projects,
 * [Tooling Ecosystem working with SPDX](https://docs.google.com/document/d/1A1jFIYihB-IyT0gv7E_KoSjLbwNGmu_wOXBs6siemXA/edit) - Extensive list of tools working with SPDX information
 * [Software Bill of Materials](https://www.ntia.gov/SBOM) - Explanations and examples about what a Sotware Bill of Materials is and how it's used
 * [Awesome SBOM](https://github.com/awesomeSBOM/awesome-sbom) - List of materials about SBOMs
+* [Cyclone DX](https://cyclonedx.org/) - Standard for SBOM information
+* [Tooling Ecosystem working with CycloneDX](https://docs.google.com/document/d/1biwYXrtoRc_LF7Pw10TO2TGIhlM6jwkDG23nc9M_RiE/edit) - Extensive list of tolls working with CycloneDX information
 * [Clearly Defined](https://clearlydefined.io) - Project of the Open Source Initiative to get clearly defined license data for open source projects
 * [Open Source License Compliance in Software Supply Chains](https://dirkriehle.com/publications/2017-selected/license-clearance-in-software-product-governance/) - Article about what to consider when making sure products based on open source are compliant to the open source licenses
 * [REUSE](https://reuse.software/) - Specification and tools to declare copyright and license in open source software
@@ -101,7 +103,7 @@ This list focuses on resources about the why and how to do open source projects,
 * [OpenChain Project](https://www.openchainproject.org/) - Project to define, support, and certify open source compliance programs
 * [Balanced Employee IP Agreement](https://github.com/github/balanced-employee-ip-agreement) - Reusable agreement which makes sure employees keep the rights on side projects they do not do as part of their job
 * [Open Source Casebook](https://google.github.io/opencasebook/) - Legal analysis of key legal topics in open source, including primary sources
-* [Understanding US export controls with open source projects](https://www.linuxfoundation.org/tool/understanding-us-export-controls-with-open-source-projects/) - Whitepaper on what to consider regarding export control regulation which might affect open source projects
+* [Understanding US export controls with open source projects](https://www.linuxfoundation.org/resources/publications/understanding-us-export-controls-with-open-source-projects) - Whitepaper on what to consider regarding export control regulation which might affect open source projects
 * [Journal of Open Law, Technology & Society](https://jolts.world/) - Free legal journal covering issues in the realm of openness, in particular open source software
 * [The International FOSS Law Book](https://github.com/IFOSSLawBook/ifosslawbook) - Background of how open source is seen from the point of view of legal systems in different countries
 * [Requiring a specific Open Source Software in public
@@ -112,7 +114,6 @@ contracts – best practices to adopt](https://www.lfenergy.org/wp-content/uploa
 
 * [The Cathedral and the Bazaar](http://www.catb.org/~esr/writings/cathedral-bazaar/) - Influential paper by Eric Raymond from 1997 laying out the principles of open source
 * [Contempt Culture](https://blog.aurynn.com/2015/12/16-contempt-culture) - Advice about how to create a healthy and respectful culture, explained at the example of contempt towards other programming languages
-* [The people behind the code](https://github.com/customer-stories?anchor=results&type=developers) - Interviews with open source contributors
 * [Open Source Diversity](https://opensourcediversity.org/) - List of information, projects, and other resources supporting more diversity and inclusion in open source communitites
 * [What is open?](https://okfn.org/opendata/) - Beyond open source software, what is open data and content?
 * [Open Advice](http://open-advice.org/) - Answers the question what 42 prominent contributors would have liked to know when they started with open source
@@ -149,18 +150,20 @@ contracts – best practices to adopt](https://www.lfenergy.org/wp-content/uploa
 * [Software in the Public Interest](http://www.spi-inc.org/) - Non profit organization acting as fiscal sponsor to many open source projects
 * [Commons Conservancy](https://commonsconservancy.org/) - Umbrella organization for open source projects, based in Europe
 * [NumFOCUS](https://numfocus.org/) - Umbrella organization for open source scientific compute projects
+* [OASIS Open Projects](https://www.oasis-open.org/open-projects/) - Program to support projects bringing together open source and open standards
 
 ## Funding
 
 * [Nadya Eghbal's "Lemonade Stand"](https://github.com/nayafia/lemonade-stand) - A comprehensive list of funding methods for open source projects
 * [Open Source Software Funding Platforms Registry](https://www.oss.fund/) - List of platforms for funding open source software development
 * [Open Collective](https://opencollective.com/) - Open source platform for managing and connecting projects, fiscal sponsors, and financial contributors
-* [Decentralized funding? An analysis of three programs](https://nadiaeghbal.com/grant-programs) - Analysis of some programs to fund open source development in an open and decentralized way through development grants
+* [Decentralized funding? An analysis of three programs](https://nadia.xyz/grant-programs) - Analysis of some programs to fund open source development in an open and decentralized way through development grants
 * [COSSI: Commercial Open Source Software Company Index](https://docs.google.com/spreadsheets/d/17nKMpi_Dh5slCqzLSFBoWMxNvWiwt2R-t4e_l7LPLhU/edit#gid=0) - List of companies which make more than million USD revenue from open source software
 * [FOSS Contributor Fund](https://github.com/indeedeng/FOSS-Contributor-Fund) - Framework for selecting projects a company supports financially
 
 ## Conferences
 
+* [foss.events](https://foss.events/) - Collection of Free and Open Source Software events
 * [LWN.net Community Calendar](https://lwn.net/Calendar/) - Calendar tracking events, such as conferences, relevant to the open source community
 * [List of Free Software events](https://en.wikipedia.org/wiki/List_of_free-software_events) - Detailed list of events related to open source
 * [FOSDEM](https://fosdem.org) - Biggest open source developer event in Europe, taking place each February in Brussels
@@ -181,6 +184,7 @@ contracts – best practices to adopt](https://www.lfenergy.org/wp-content/uploa
 * [Seven questions to steer open source project community development](https://www.redhat.com/en/blog/seven-questions-steer-open-source-project-community-development) - Checklist with questions how to position open source projects
 * [All Contributors](https://allcontributors.org/) - Specification and automation to recognize all contributors, not only code contributors
 * [OpenDRI & GeoNode: A Case Study for Institutional Investments in Open Source](https://opendri.org/resource/opendri-geonode-a-case-study-for-institutional-investments-in-open-source/) - Case study how building a community around an open source project created a 200% return on investment
+* [Social Architecture](https://hintjens.gitbooks.io/social-architecture/content/) - Book about building open source communities
 
 ### Mentoring Programs
 
@@ -202,12 +206,11 @@ contracts – best practices to adopt](https://www.lfenergy.org/wp-content/uploa
 
 ### Project quality
 
-* [CII Best Practices Badge Program](https://bestpractices.coreinfrastructure.org) - The Linux Foundation's Core Infrastructure Initiative's self-certification program for demonstrating adherence to best open source practices
+* [OpenSSF Best Practices Badge Program](https://bestpractices.coreinfrastructure.org) - The Open Source Security Foundation's self-certification program for demonstrating adherence to best open source practices
 * [How you know your Free of Open Source Software Project is doomed to FAIL](https://spot.livejournal.com/308370.html) - Tom Callaway's famous post about what not to do when running an open source project
 * [What does a sustainable open source project look like?](https://medium.com/libraries-io/what-does-a-sustainable-open-source-project-look-like-bf9b8cf824f8) - Criteria of what makes an open source project sustainable
-* [Methodologies for measuring project health](https://nadiaeghbal.com/project-health) - What are meaningful metrics for measuring health of a project?
+* [Methodologies for measuring project health](https://nadia.xyz/project-health) - What are meaningful metrics for measuring health of a project?
 * [Community Health Analytics Open Source Software (CHAOSS)](https://chaoss.community/) - Project to define metrics for community health
-* [Determining the True Openness of Open Source Projects](https://www.linuxfoundation.org/publications/2019/06/determining-true-openness-of-os-projects/) - Definition of areas how to make an open source project, including best and worst practices
 * [How to Select Open Source Components](https://www.computer.org/csdl/magazine/co/2019/12/08909944/1f8KJAfHutG) - Selection criteria for open source components
 * [Open Source Project Criticatility Score](https://github.com/ossf/criticality_score) - Project and tool to quantify criticality of open source projects
 * [fosstars-rating-core](https://sap.github.io/fosstars-rating-core/) - Framework for defining ratings for open source projects
@@ -252,7 +255,7 @@ contracts – best practices to adopt](https://www.lfenergy.org/wp-content/uploa
 * [Discourse](https://www.discourse.org/) - Open source forum software
 * [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) - The chat tool originally used by a lot of open source communities
 * [Jitsi](https://jitsi.org/) - Open source video conferencing
-* [BigBlueButton](https://bigbluebutton.org/) - Open source web conferencing system with a focus on online learning
+* [BigBlueButton](https://bigbluebutton.org/) - Open source web conferencing system also used for virtual conferences
 
 ## Research
 
@@ -260,7 +263,7 @@ contracts – best practices to adopt](https://www.lfenergy.org/wp-content/uploa
   projects: An empirical investigation](https://arxiv.org/pdf/1906.08058.pdf) -
   What happens when maintainers leave a project
 * [Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure](https://www.fordfoundation.org/about/library/reports-and-studies/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure/) - Extensive report about the challenges of maintaining open source as digital infrastructure
-* [TheFLOSSary](https://gitlab.tubit.tu-berlin.de/mirko.boehm/TheFLOSSary) - Glossary of Free/Libre and Open Source Software related terms, reusable in LaTeX documents
+* [TheFLOSSary](https://www.creative-destruction.org/project/theflossary/) - Glossary of Free/Libre and Open Source Software related terms, reusable in LaTeX documents
 * [The Hidden Benefit of Giving Back to Open Source Software](https://hbswk.hbs.edu/item/the-hidden-benefit-of-giving-back-to-open-source-software) - Report about study how contributing to open source projects allows companies to capture more value form using these projects
 * [Getting Started with FLOSS Governance and Compliance
 in Companies](https://dirkriehle.com/wp-content/uploads/2019/06/Getting-Started-with-FLOSS-Governance-Final.pdf) - Research about what the best practices are to introduce a governance program for commercial use of open source software
