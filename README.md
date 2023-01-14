@@ -1,5 +1,7 @@
 # Awesome Open Source
 
+[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+
 > A curated list of resources related to how to do [open source](https://en.wikipedia.org/wiki/Open_source) projects
 
 Open source is a way of running projects openly and collaboratively, giving users and developers the freedoms to use, share, and modify the sources. It's prevalent in open source software, but extends to complementary areas such as documentation or design, and broader areas such as open content and open collaboration.
