@@ -245,6 +245,7 @@ contracts – best practices to adopt](https://www.lfenergy.org/wp-content/uploa
 
 ### Organizations
 
+* [FLOSS Foundations](https://flossfoundations.org/) - Directory of Free and Open Source Software foundations
 * [Growing Open Source Projects with a Stable Foundation](https://www.cyrius.com/foss-foundations/growing-open-source-projects.pdf) - Primer about the role of foundations in the open source ecosystem
 
 #### Big Free and Open Source Software Foundations
