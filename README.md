@@ -217,6 +217,7 @@ contracts – best practices to adopt](https://www.lfenergy.org/wp-content/uploa
 * [Open Source Management Training](https://training.linuxfoundation.org/training/fundamentals-of-professional-open-source-management) - Free online course from the Linux Foundation about managing open source programs in the enterprise
 * [Open Source in the Enterprise](https://aws.amazon.com/opensource/enterprise-oss-book/) - Mini-book with guidelines for enterprises how to use and create open source software
 * [OSPO Definition](https://ospodefinition.org/) - Definition of an Open Source Program Office and what it does (addressing Fear, Love, and Money)
+* [Open Source Observatory (OSOR)](https://joinup.ec.europa.eu/collection/open-source-observatory-osor) - Site from the European Commission about open source in public administration
 
 ### License compliance
 
