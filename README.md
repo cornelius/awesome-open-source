@@ -155,6 +155,7 @@ contracts – best practices to adopt](https://www.lfenergy.org/wp-content/uploa
 
 ### Mentoring
 
+* [20+ Open Source Internship Programs that you can Apply to](https://dev.to/navendu/20-open-source-internship-programs-that-you-can-apply-to-37kh) - List of open source mentorship and internship programs
 * [Google's Summer of Code](https://summerofcode.withgoogle.com/) - Large open source mentoring program organized by Google
 * [Outreachy](https://www.outreachy.org/) - Mentoring program focused on supporting diversity
 * [Season of KDE](https://community.kde.org/SoK) - Mentoring program for volunteers in the KDE community
