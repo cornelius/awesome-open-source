@@ -242,6 +242,7 @@ contracts – best practices to adopt](https://www.lfenergy.org/wp-content/uploa
 * [Open Source Project Criticatility Score](https://github.com/ossf/criticality_score) - Project and tool to quantify criticality of open source projects
 * [fosstars-rating-core](https://sap.github.io/fosstars-rating-core/) - Framework for defining ratings for open source projects
 * [Open Source Insights](https://deps.dev/) - Tool to show details about dependencies of open source packages
+* [publiccode.yml](https://github.com/publiccodeyml/publiccode.yml) - Standard to express meta data for a repository, used in code for public administration
 
 ## Support
 
