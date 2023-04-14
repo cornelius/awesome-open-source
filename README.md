@@ -60,6 +60,7 @@ This list focuses on resources about the why and how to do open source projects,
 * [Annotated Open Source Definition](https://opensource.org/osd-annotated) - The definition of open source which is the base for the OSI license list, with rationales
 * [Creative Commons](https://creativecommons.org) - Open licenses for non-code such as documentation or artwork
 * [Choose an open source license](https://choosealicense.com/) - Simple license chooser to help you choosing a license for your project
+* [Joinup Licensing Assistant](https://joinup.ec.europa.eu/collection/eupl/solution/joinup-licensing-assistant) - Tool to find open source licenses based on desired conditions and compare them regarding compatibility
 * [Open Source License Compendium (OSLic)](https://telekom.github.io/oslic/) - Compendium with instructions how to fulfill obligations of open source licenses
 * [Open Source License Compliance Handbook](https://github.com/finos-osr/OSLC-handbook) - Detailed guideline how to comply to a large selection of open source licenses
 * [Open Source License Checklists](https://www.osadl.org/Access-to-raw-data.oss-compliance-raw-data-access.0.html) - Formal machine-readable representations of obligations of many open source licenses
