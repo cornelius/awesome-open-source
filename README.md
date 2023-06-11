@@ -80,6 +80,7 @@ This list focuses on resources about the why and how to do open source projects,
 * [Balanced Employee IP Agreement](https://github.com/github/balanced-employee-ip-agreement) - Reusable agreement which makes sure employees keep the rights on side projects they do not do as part of their job
 * [Open Source Casebook](https://google.github.io/opencasebook/) - Legal analysis of key legal topics in open source, including primary sources
 * [Understanding US export controls with open source projects](https://www.linuxfoundation.org/resources/publications/understanding-us-export-controls-with-open-source-projects) - Whitepaper on what to consider regarding export control regulation which might affect open source projects
+* [EU Export Control Regime and Free Software](https://download.fsfe.org/NGI0/V2/FSFE%20-%208%20-%20EU%20Export%20Control%20Regime%20and%20Free%20Software.pdf) - Analysis of European export control rules and how to comply with them
 * [Journal of Open Law, Technology & Society](https://jolts.world/) - Free legal journal covering issues in the realm of openness, in particular open source software
 * [The International FOSS Law Book](https://github.com/IFOSSLawBook/ifosslawbook) - Background of how open source is seen from the point of view of legal systems in different countries
 * [Requiring a specific Open Source Software in public
