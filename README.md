@@ -135,6 +135,7 @@ contracts – best practices to adopt](https://www.lfenergy.org/wp-content/uploa
 * [All Contributors](https://allcontributors.org/) - Specification and automation to recognize all contributors, not only code contributors
 * [OpenDRI & GeoNode: A Case Study for Institutional Investments in Open Source](https://opendri.org/resource/opendri-geonode-a-case-study-for-institutional-investments-in-open-source/) - Case study how building a community around an open source project created a 200% return on investment
 * [Social Architecture](https://hintjens.gitbooks.io/social-architecture/content/) - Book about building open source communities
+* [Public Issue Tracker Behaviors](https://github.com/bradfitz/issue-tracker-behaviors) - List of bad behaviors in issue trackers you better avoid
 
 ### Development
 
