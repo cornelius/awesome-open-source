@@ -323,6 +323,7 @@ of Linux Foundation's Collaborative Projects](https://www.static.linuxfound.org/
 * [The Inevitability of InnerSource](https://www.nearform.com/blog/the-inevitability-of-innersource-danese-cooper-tech-talk-video/) - Inner Source in a nutshell, explaining what it is and why it's so powerful
 * [Inner Source from a Financial Compliance Perspective](https://www.youtube.com/watch?v=xYLRqUTjcpY) - Explanation of Inner Source from an economic point of view
 * [InnerSource Patterns](https://patterns.innersourcecommons.org/) - Tactics of applying Inner Source methodologies in the format of common patterns
+* [The Business Impact of Inner Source and How to Quantify it](https://dirkriehle.com/wp-content/uploads/2023/07/Buchner_Riehle_CSUR_Inner_Source_SLR_Author-Version.pdf) - Research about how to look at the impact of Inner Source
 
 ---
 
