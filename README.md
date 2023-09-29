@@ -248,6 +248,7 @@ contracts – best practices to adopt](https://www.lfenergy.org/wp-content/uploa
 * [Open Source Insights](https://deps.dev/) - Tool to show details about dependencies of open source packages
 * [publiccode.yml](https://github.com/publiccodeyml/publiccode.yml) - Standard to express meta data for a repository, used in code for public administration
 * [The Rights-Ratchet Model](https://meshedinsights.com/2021/02/02/rights-ratchet/) - Description of risks with license changes in single-vendor projects
+* [endoflife.date](https://endoflife.date/) - Collection of life cycle information of many projects
 
 ## Support
 
