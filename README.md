@@ -222,6 +222,7 @@ contracts – best practices to adopt](https://www.lfenergy.org/wp-content/uploa
 * [OSPO Definition](https://ospodefinition.org/) - Definition of an Open Source Program Office and what it does (addressing Fear, Love, and Money)
 * [Open Source Observatory (OSOR)](https://joinup.ec.europa.eu/collection/open-source-observatory-osor) - Site from the European Commission about open source in public administration
 * [Open Source Policy Examples and Templates](https://github.com/todogroup/policies) - Collection of published open source policies
+* [FINOS Open Source Readiness](https://osr.finos.org/docs/welcome) - Material about managing open source with a focus on the financial sector
 
 ### License compliance
 
