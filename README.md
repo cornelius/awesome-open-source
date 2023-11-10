@@ -121,6 +121,7 @@ contracts – best practices to adopt](https://www.lfenergy.org/wp-content/uploa
 * [Determining the True Openness of Open Source Projects](https://www.linuxfoundation.jp/publications/2019/06/determining-true-openness-of-os-projects/) - Definition of areas how to make an open source project, including best and worst practices
 * [Minimum Viable Governance](https://github.com/github/MVG) - A minimum governance model template
 * [The Four Opens](https://openinfra.dev/four-opens/) - Example of an open governance model
+* [Four Levels Of Open](https://twitter.com/shanecurcuru/status/1283425182053478402) - Another definition of openness beyond the openness of the license
 * [Governance Game](https://github.com/publiccodenet/governance-game) - Card game to explore governance of open source projects in the public sector
 
 ### Community
