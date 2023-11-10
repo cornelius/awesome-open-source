@@ -219,6 +219,7 @@ contracts – best practices to adopt](https://www.lfenergy.org/wp-content/uploa
 * [OSPO Alliance](https://ospo.zone/) - Group of practioners of open source management, initiated by the Eclipse Foundation
 * [Open Source Management Training](https://training.linuxfoundation.org/training/fundamentals-of-professional-open-source-management) - Free online course from the Linux Foundation about managing open source programs in the enterprise
 * [Open Source in the Enterprise](https://aws.amazon.com/opensource/enterprise-oss-book/) - Mini-book with guidelines for enterprises how to use and create open source software
+* [Principles for industrial Open Source](https://www.academia.edu/37365963/Principles_for_industrial_Open_Source) - Large collection of patterns how to improve management of open source in an organization
 * [OSPO Definition](https://ospodefinition.org/) - Definition of an Open Source Program Office and what it does (addressing Fear, Love, and Money)
 * [Open Source Observatory (OSOR)](https://joinup.ec.europa.eu/collection/open-source-observatory-osor) - Site from the European Commission about open source in public administration
 * [Open Source Policy Examples and Templates](https://github.com/todogroup/policies) - Collection of published open source policies
