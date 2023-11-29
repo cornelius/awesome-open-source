@@ -236,6 +236,7 @@ contracts – best practices to adopt](https://www.lfenergy.org/wp-content/uploa
 * [Cyclone DX](https://cyclonedx.org/) - Standard for SBOM information
 * [Tooling Ecosystem working with CycloneDX](https://docs.google.com/document/d/1biwYXrtoRc_LF7Pw10TO2TGIhlM6jwkDG23nc9M_RiE/edit) - Extensive list of tolls working with CycloneDX information
 * [Clearly Defined](https://clearlydefined.io) - Project of the Open Source Initiative to get clearly defined license data for open source projects
+* [OSSelot](https://www.osselot.org/) - Curated database of SBOMs and compliance artifacts for open source projects
 * [Open Source License Compliance in Software Supply Chains](https://dirkriehle.com/publications/2017-selected/license-clearance-in-software-product-governance/) - Article about what to consider when making sure products based on open source are compliant to the open source licenses
 * [Blue Oak Council](https://blueoakcouncil.org/) - Resources around legal licensing questions, focused on permissive licenses
 
