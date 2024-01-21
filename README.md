@@ -63,6 +63,7 @@ This list focuses on resources about the why and how to do open source projects,
 * [Universal License List](https://open.windriver.com/info/uni-license-list/index.html) - Aggregated list of licenses encountered by a combination of scanning tools
 * [Scancode LicenseDB](https://scancode-licensedb.aboutcode.org/) - Extensive list of licenses with meta data such as SPDX identifiers, classification, and links to text representations
 * [Open source needs to clean up its language](https://www.infoworld.com/article/2612747/open-source-needs-to-clean-up-its-language.html) - Article about how classification of licenses could be worded better
+* [Delayed Open Source Publication](https://opensource.org/delayed-open-source-publication/) - History and practice of using licenses which give open source rights with a delay, e.g. the BUSL
 
 #### License agreements
 
