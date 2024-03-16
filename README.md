@@ -125,6 +125,7 @@ contracts – best practices to adopt](https://www.lfenergy.org/wp-content/uploa
 * [The Four Opens](https://openinfra.dev/four-opens/) - Example of an open governance model
 * [Four Levels Of Open](https://twitter.com/shanecurcuru/status/1283425182053478402) - Another definition of openness beyond the openness of the license
 * [Governance Game](https://github.com/publiccodenet/governance-game) - Card game to explore governance of open source projects in the public sector
+* [Open Governance Index](https://upload.wikimedia.org/wikipedia/commons/5/5f/VisionMobile_Open_Governance_Index_report.pdf) - Study from 2011 analyzing openness of governance for 8 big open source projects
 
 ### Community
 
