@@ -100,8 +100,9 @@ contracts – best practices to adopt](https://www.lfenergy.org/wp-content/uploa
 #### Maintainers
 
 * [Awesome Maintainers](https://github.com/nayafia/awesome-maintainers) - Open source maintainers talking about maintaining open source projects
-* [The Open Source Contributor Funnel](https://mikemcquaid.com/2018/08/14/the-open-source-contributor-funnel-why-people-dont-contribute-to-your-open-source-project/) - A model how people become contributors to open source projects
 * [The role of a maintainer](https://matthewrocklin.com/blog//2019/05/18/maintainer) - Best pratices for open source maintainers
+* [The Open Source Contributor Funnel](https://mikemcquaid.com/2018/08/14/the-open-source-contributor-funnel-why-people-dont-contribute-to-your-open-source-project/) - A model how people become contributors to open source projects
+* [The Open Source Software Developer Career and Its Benefits](https://dirkriehle.com/publications/2014-selected/the-open-source-software-developer-career-and-its-benefits/) - A model for how developers progress in open source projects and what does this mean for their career
 
 #### Code of Conducts
 
