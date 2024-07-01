@@ -175,6 +175,7 @@ contracts – best practices to adopt](https://www.lfenergy.org/wp-content/uploa
 * [Stackalytics](https://wiki.openstack.org/wiki/Stackalytics) - Open source tool providing contribution statistics used by OpenStack and others
 * [Bitergia](https://bitergia.com/) - Open source contribution metrics
 * [Open Source Contributor Index](https://opensourceindex.io/) - Statistics about the top contributing companies on GitHub
+* [Swiss OSS Benchmark](https://ossbenchmark.com/) - Statistics about Swiss Institutions developing open source software on GitHub
 
 ### Documentation
 
