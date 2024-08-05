@@ -230,6 +230,7 @@ contracts – best practices to adopt](https://www.lfenergy.org/wp-content/uploa
 * [Open Source in the Enterprise](https://aws.amazon.com/opensource/enterprise-oss-book/) - Mini-book with guidelines for enterprises how to use and create open source software
 * [Principles for industrial Open Source](https://www.academia.edu/37365963/Principles_for_industrial_Open_Source) - Large collection of patterns how to improve management of open source in an organization
 * [OSPO Definition](https://ospodefinition.org/) - Definition of an Open Source Program Office and what it does (addressing Fear, Love, and Money)
+* [The life-cycle of open source program offices](https://dirkriehle.com/2024/04/30/the-ospo-life-cycle/) - A mental model of the development of the activities, responsibilities, and the role of OSPOs
 * [Open Source Observatory (OSOR)](https://joinup.ec.europa.eu/collection/open-source-observatory-osor) - Site from the European Commission about open source in public administration
 * [Open Source Policy Examples and Templates](https://github.com/todogroup/policies) - Collection of published open source policies
 * [FINOS Open Source Readiness](https://osr.finos.org/docs/welcome) - Material about managing open source with a focus on the financial sector
