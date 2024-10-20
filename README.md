@@ -127,6 +127,7 @@ contracts – best practices to adopt](https://www.lfenergy.org/wp-content/uploa
 * [Four Levels Of Open](https://twitter.com/shanecurcuru/status/1283425182053478402) - Another definition of openness beyond the openness of the license
 * [Governance Game](https://github.com/publiccodenet/governance-game) - Card game to explore governance of open source projects in the public sector
 * [Open Governance Index](https://upload.wikimedia.org/wikipedia/commons/5/5f/VisionMobile_Open_Governance_Index_report.pdf) - Study from 2011 analyzing openness of governance for 8 big open source projects
+* [How open source foundations protect the licensing integrity of open source projects](https://www.linuxfoundation.org/blog/how-open-source-foundations-protect-the-licensing-integrity-of-open-source-projects) - How open source foundations facilitate open governance and long-term sustainability of open source projects
 * [Contributions and credit policy for open source projects](https://github.com/contribution-credit/policy) - Guide on how to write contribution and credit policies
 * ['Rough Consensus and Running Code' and the Internet-OSI Standards War](https://courses.cs.duke.edu/common/compsci092/papers/govern/consensus.pdf) - How governance of early Internet standards evolved
 
