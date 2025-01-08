@@ -65,6 +65,7 @@ This list focuses on resources about the why and how to do open source projects,
 * [Open source needs to clean up its language](https://www.infoworld.com/article/2612747/open-source-needs-to-clean-up-its-language.html) - Article about how classification of licenses could be worded better
 * [Delayed Open Source Publication](https://opensource.org/delayed-open-source-publication/) - History and practice of using licenses which give open source rights with a delay, e.g. the BUSL
 * [Beyond Open Data: The Only Good License Is No License](https://plus.pli.edu/Details/Details?fq=id:(352066-ATL2)) - Open licensing of data
+* [Source Available Software Licensing](https://sourceavailable.org/) - Overview of source-available licenses
 
 #### License agreements
 
