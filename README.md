@@ -199,6 +199,7 @@ contracts – best practices to adopt](https://www.lfenergy.org/wp-content/uploa
 * [Decentralized funding? An analysis of three programs](https://nadia.xyz/grant-programs) - Analysis of some programs to fund open source development in an open and decentralized way through development grants
 * [COSSI: Commercial Open Source Software Company Index](https://docs.google.com/spreadsheets/d/17nKMpi_Dh5slCqzLSFBoWMxNvWiwt2R-t4e_l7LPLhU/edit#gid=0) - List of companies which make more than million USD revenue from open source software
 * [FOSS Contributor Fund](https://github.com/indeedeng/FOSS-Contributor-Fund) - Framework for selecting projects a company supports financially
+* [2024 Open Source Software Funding Report](https://opensourcefundingsurvey2024.com/) - Results and recommendations from survey about funding of open source projects by organizations
 
 ### Infrastructure
 
