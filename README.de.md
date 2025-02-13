@@ -13,6 +13,7 @@
 Verbreitung und Weiterentwicklung von
 Open-Source-Software](https://www.cio.bund.de/SharedDocs/Publikationen/DE/Architekturen-und-Standards/migrationsleitfaden_4_0_rechtliche_aspekte_download.pdf?__blob=publicationFile) - Leitfaden des Bundes-CIO zu Einsatz und Entwicklung von Open-Source-Software im öffentlichen Bereich
 * [Handreichung zur Nutzung der EVB-IT beim Einsatz von Open-Source-Software](https://osb-alliance.de/news/feature/handreichungen-zur-nutzung-der-evb-it-beim-einsatz-von-open-source-software) - Informationen zur Beschaffung von Open Source Software für Behörden und öffentliche Einrichtungen
+* [Vergabekriterien für eine nachhaltige Beschaffung von Open Source Software](https://osb-alliance.de/publikationen/veroeffentlichungen/vergabekriterien-fuer-eine-nachhaltige-beschaffung-von-open-source-software) - Hinweise für verantwortungsbewusste Ausschreibungen im Kontext von Open-Source-Software
 
 ## Studien
 
