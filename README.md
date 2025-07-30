@@ -184,6 +184,7 @@ contracts – best practices to adopt](https://www.lfenergy.org/wp-content/uploa
 * [How to write documentation that's actually useful](https://www.hpe.com/us/en/insights/articles/how-to-write-documentation-thats-actually-useful-1707.html) - Tips how to write good documentation
 * [Beautiful docs](https://github.com/PharkMillups/beautiful-docs/) - Lists of examples of great documentation and tools to generate documentation
 * [Awesome README](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs
+* [Make a README](https://www.makeareadme.com/) - Guidance on why and how to write a README
 * [You are what you document](https://www.ybrikman.com/writing/2014/05/05/you-are-what-you-document/) - Guides and good examples for all kinds of documentation
 
 ### Marketing
