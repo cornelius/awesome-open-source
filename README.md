@@ -346,6 +346,7 @@ of Linux Foundation's Collaborative Projects](https://www.static.linuxfound.org/
 * [InnerSource Commons](https://innersourcecommons.org/) - Community of practitioniers of Inner Source
 * [InnerSource Commons Spring Online Summit 2020](https://www.youtube.com/playlist?list=PLCH-i0B0otNQeYBH5QvNRBDA3CMrS9lL9) - Recordings of the talks from the InnerSource Commons Conferene in spring 2020
 * [Adopting InnerSource](https://innersourcecommons.org/resources/books/adoptinginnersource/) - Book with case studies about how companies are doing Inner Source
+* [InnerSource Patterns](https://patterns.innersourcecommons.org/) - Collection of patterns how to implement Inner Source
 * [Europace's journey to InnerSource](https://www.slideshare.net/EnricoHartung/europaces-innersource-journey) - An example how you can do Inner Source by conducting experiments based on basic Inner Soure principles
 * [The Inevitability of InnerSource](https://www.nearform.com/blog/the-inevitability-of-innersource-danese-cooper-tech-talk-video/) - Inner Source in a nutshell, explaining what it is and why it's so powerful
 * [Inner Source from a Financial Compliance Perspective](https://www.youtube.com/watch?v=xYLRqUTjcpY) - Explanation of Inner Source from an economic point of view
