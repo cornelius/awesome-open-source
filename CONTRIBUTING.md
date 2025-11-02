@@ -1,6 +1,6 @@
 Welcome to the list of awesome open source and thanks for considering to contribute. Contributions are welcome so we can tap into the collective knowledge and wisdom about how to run open source.
 
-Please [open a pull request](https://github.com/cornelius/awesome-open-source/pulls) if you would like to contribute new or improve existing items. If you would like to comment on or discuss content but don't have concrete changes yet, please [open an issue](https://github.com/cornelius/awesome-open-source/issues).
+Please [open a pull request](https://github.com/cornelius/awesome-open-source/pulls) if you would like to contribute new or improve existing items. If you would like to comment on or discuss content but don't have concrete changes yet, or if you are not sure where the new item should go, please [open an issue](https://github.com/cornelius/awesome-open-source/issues).
 
 The scope of the list is resources helpful in running open source projects and managing use of open source. The focus is software but adjacent areas are welcome as well.
 
