@@ -27,6 +27,7 @@ This list focuses on resources about the why and how to do open source projects,
   * [Marketing](#marketing)
   * [Funding](#funding)
   * [Infrastructure](#infrastructure)
+  * [AI](#ai)
 * [Using](#using)
   * [Management](#management)
   * [License compliance](#license-compliance)
@@ -220,6 +221,11 @@ contracts – best practices to adopt](https://www.lfenergy.org/wp-content/uploa
 * [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) - The chat tool originally used by a lot of open source communities
 * [Jitsi](https://jitsi.org/) - Open source video conferencing
 * [BigBlueButton](https://bigbluebutton.org/) - Open source web conferencing system also used for virtual conferences
+
+### AI
+
+* [Open source and AI-assisted development: navigating the legal issues
+](https://www.redhat.com/en/blog/ai-assisted-development-and-open-source-navigating-legal-issues) - Pragmatic recommendations how to handle AI generated code in open source contributions from a legal point of view
 
 ## Using
 
