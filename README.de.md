@@ -26,3 +26,11 @@ Open-Source-Software](https://www.cio.bund.de/SharedDocs/Publikationen/DE/Archit
 * [ifrOSS Lizenzcenter](https://ifross.github.io/ifrOSS/Lizenzcenter) - Kategorisierung von Lizenzen für freie Inhalte
 * [GPL und Haftung - Ohne Verantwortung?](https://www.ifross.org/ifross_html/art3.html) - Betrachtung von Haftung und Gewährleistung für Open-Source-Software aus Sicht des deutschen Rechts
 * [Introduction to software protection under German law](https://github.com/IFOSSLawBook/ifosslawbook/blob/master/src/50-Germany.markdown) - Übersicht über die Wirkung des deutschen Urheberrechts auf Software (auf Englisch)
+
+## Nutzung von Open-Source-Software
+
+* [Auswahl von Open-Source-Software](https://github.com/dbsystel/open-source-policies/blob/master/usage-policy/auswahl-von-open-source-software.adoc) - Kriterien für die Auswahl von Open-Source-Software
+
+## Contributions zu Open-Source-Software
+
+* [Richtlinie: Open Source Contributions](https://github.com/dbsystel/open-source-policies/blob/master/contribution-policy/contribution-richtlinie.adoc) - Template für Richtlinie für Open Source Contributions
