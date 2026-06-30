@@ -333,6 +333,7 @@ Estimating the Total Development Cost
 of Linux Foundation's Collaborative Projects](https://www.static.linuxfound.org/sites/main/files/lfpub_cp_cost_estimate2015.pdf) - Study about how much it would cost to develop open source projects from scratch
 * [The impact of open source software and hardware on technological independence, competitiveness and innovation in the EU economy](https://digital-strategy.ec.europa.eu/en/library/study-about-impact-open-source-software-and-hardware-technological-independence-competitiveness-and) - Study about economic impact of open source in Europe
 * [The Value of Open Source Software](https://www.hbs.edu/faculty/Pages/item.aspx?num=65230) - Study estimating the supply side and demand side value of global open source software and how the value is distributed in terms of programming languages and contributors
+* [Open Source 2.0: From Open Source Software to Open Source Resources?](https://doi.org/10.5281/zenodo.20237079) - Preprint supporting the idea of a paradigm shift in the meaning of open source to encompass digital resources where source files are provided
 
 ### Surveys
 
