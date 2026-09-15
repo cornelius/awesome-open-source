@@ -253,6 +253,7 @@ contracts – best practices to adopt](https://www.lfenergy.org/wp-content/uploa
 * [Open Source Observatory (OSOR)](https://joinup.ec.europa.eu/collection/open-source-observatory-osor) - Site from the European Commission about open source in public administration
 * [Open Source Policy Examples and Templates](https://github.com/todogroup/policies) - Collection of published open source policies
 * [FINOS Open Source Readiness](https://osr.finos.org/docs/welcome) - Material about managing open source with a focus on the financial sector
+* [CMS Open Source Program Office Guide](https://dsacms.github.io/ospo-guide/) - OSPO Guide from the public sector in the US
 * [Good Governance Initiative](https://ospo-alliance.org/ggi/) - Framework for building open source management in an organization
 
 ### License compliance
