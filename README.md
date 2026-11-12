@@ -277,6 +277,7 @@ contracts – best practices to adopt](https://www.lfenergy.org/wp-content/uploa
 * [Methodologies for measuring project health](https://nadia.xyz/project-health) - What are meaningful metrics for measuring health of a project?
 * [Community Health Analytics Open Source Software (CHAOSS)](https://chaoss.community/) - Project to define metrics for community health
 * [How to Select Open Source Components](https://www.computer.org/csdl/magazine/co/2019/12/08909944/1f8KJAfHutG) - Selection criteria for open source components
+* [Concise Guide for Evaluating Open Source Software](https://best.openssf.org/Concise-Guide-for-Evaluating-Open-Source-Software.html) - OpenSSF checklist for evaluating an open source dependency for security and sustainability before using it
 * [Open Source Project Criticatility Score](https://github.com/ossf/criticality_score) - Project and tool to quantify criticality of open source projects
 * [fosstars-rating-core](https://sap.github.io/fosstars-rating-core/) - Framework for defining ratings for open source projects
 * [Open Source Insights](https://deps.dev/) - Tool to show details about dependencies of open source packages
